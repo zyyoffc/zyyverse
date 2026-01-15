@@ -1,7 +1,7 @@
 {
   "120363423932349761@g.us": {
     "createdAt": "2026-01-14T16:48:05.707Z",
-    "updatedAt": "2026-01-14T16:49:55.454Z",
+    "updatedAt": "2026-01-15T11:30:40.459Z",
     "list": {
       "zyy": {
         "content": {
@@ -9,6 +9,13 @@
           "media": null
         },
         "addedAt": "2026-01-14T16:48:05.707Z"
+      },
+      "zyyy": {
+        "content": {
+          "text": "mantaps",
+          "media": null
+        },
+        "addedAt": "2026-01-15T11:30:40.459Z"
       }
     }
   }
