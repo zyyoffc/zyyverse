@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-15T17:00:29.700Z",
+    "updatedAt": "2026-01-15T17:04:34.414Z",
     "list": {
       "viu": {
         "content": {
@@ -127,6 +127,13 @@
           "media": null
         },
         "addedAt": "2026-01-15T17:00:29.700Z"
+      },
+      "penjelasan canva": {
+        "content": {
+          "text": " *PENJELASAN CANVA*\n\nPenjelasan Paket Canva\n\nBerikut adalah perbedaan jenis keanggotaan Canva yang umum ditawarkan:\n\n1. MEMBER\n\n· Keterangan: Diundang ke tim Canva Premium menggunakan email.\n· Fitur: Dapat mengakses semua fitur Pro (template premium, elemen, dll).\n\n2. MEMBER PRO + DESIGNER\n\n· Keterangan: Memiliki semua keuntungan Member biasa, ditambah fitur khusus kreator.\n· Fitur Tambahan: Bisa mengupload font, palette warna, kit merek, template presentasi (PPT), dan aset kustom lainnya.\n\n3. ADMIN\n\n· Keterangan: Memiliki semua fitur Member Pro + Designer.\n· Kelebihan Utama: Bisa mengundang hingga 50 member lainnya ke dalam tim.\n\n4. OWNER/HEAD\n\n· Keterangan: Pemilik utama akun Canva.\n· Kelebihan: Hak akses penuh, termasuk bebas mengundang member (hingga 100), mengubah status member menjadi Designer atau Admin, dan mengelola tim sepenuhnya.\n\n5. MEMBER EDU\n\n· Kelebihan: Akses ke lebih banyak template bertema edukasi/pendidikan. Masa aktif biasanya lebih panjang (1-2 tahun atau lifetime) dan tetap dalam satu tim.\n· Kekurangan: Tidak bisa upgrade ke status Designer dan fitur Pro canggih seperti AI tidak tersedia.",
+          "media": null
+        },
+        "addedAt": "2026-01-15T17:04:34.414Z"
       }
     }
   }
