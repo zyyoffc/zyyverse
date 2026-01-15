@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-15T16:58:39.748Z",
+    "updatedAt": "2026-01-15T17:00:29.700Z",
     "list": {
       "viu": {
         "content": {
@@ -120,6 +120,13 @@
           "media": null
         },
         "addedAt": "2026-01-15T16:58:39.748Z"
+      },
+      "wps office": {
+        "content": {
+          "text": " *WPS OFFICIAL*\n\n*SHARING :*\n1B : 11.000",
+          "media": null
+        },
+        "addedAt": "2026-01-15T17:00:29.700Z"
       }
     }
   }
