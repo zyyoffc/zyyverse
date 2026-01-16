@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-16T02:27:33.040Z",
+    "updatedAt": "2026-01-16T02:33:18.604Z",
     "list": {
       "viu": {
         "content": {
@@ -204,6 +204,13 @@
           "media": null
         },
         "addedAt": "2026-01-16T02:27:33.040Z"
+      },
+      "duolingo": {
+        "content": {
+          "text": " *DUOLINGO PREMIUM*\n\n• Duolingo Premium Plan 1 Bulan 10K ( NO RENEW)\n• Duolingo Premium Head 15K ( NO RENEW)",
+          "media": null
+        },
+        "addedAt": "2026-01-16T02:33:18.604Z"
       }
     }
   },
