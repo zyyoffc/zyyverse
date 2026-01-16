@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-16T02:18:16.590Z",
+    "updatedAt": "2026-01-16T02:27:33.040Z",
     "list": {
       "viu": {
         "content": {
@@ -197,6 +197,13 @@
           "media": null
         },
         "addedAt": "2026-01-16T02:18:16.590Z"
+      },
+      "bstation": {
+        "content": {
+          "text": " *BSTATION* \n\n*SHARING :*\n- 1 bulan : 9.000\n- 6 bulan : 19.000\n- 1 tahun : 29.000\n\n*PRIVATE :*\n- 1 bulan : 35.000\n\nNote :\n- login 1 device\n- tanyakan stok",
+          "media": null
+        },
+        "addedAt": "2026-01-16T02:27:33.040Z"
       }
     }
   }
