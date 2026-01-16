@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-16T02:16:48.577Z",
+    "updatedAt": "2026-01-16T02:18:16.590Z",
     "list": {
       "viu": {
         "content": {
@@ -190,6 +190,13 @@
           "media": null
         },
         "addedAt": "2026-01-16T02:16:48.577Z"
+      },
+      "apple tv": {
+        "content": {
+          "text": " *APPLE TV*\n\n[1] apple tv sharing 7 hari\nHarga : Rp 10.000\n\n\n[2] apple tv sharing 1 bulan\nHarga : Rp 15.000\n\n_Xa_",
+          "media": null
+        },
+        "addedAt": "2026-01-16T02:18:16.590Z"
       }
     }
   }
