@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-16T02:55:06.902Z",
+    "updatedAt": "2026-01-16T03:02:03.655Z",
     "list": {
       "viu": {
         "content": {
@@ -232,6 +232,13 @@
           "media": null
         },
         "addedAt": "2026-01-16T02:55:06.902Z"
+      },
+      "get contact": {
+        "content": {
+          "text": " *GET CONTACT*\n\n- GTC premium 17.000",
+          "media": null
+        },
+        "addedAt": "2026-01-16T03:02:03.655Z"
       }
     }
   },
