@@ -237,7 +237,7 @@
   },
   "120363404921649211@g.us": {
     "createdAt": "2026-01-16T02:32:27.666Z",
-    "updatedAt": "2026-01-16T03:01:23.489Z",
+    "updatedAt": "2026-01-16T03:01:52.508Z",
     "list": {
       "am": {
         "content": {
@@ -525,6 +525,13 @@
           "media": null
         },
         "addedAt": "2026-01-16T03:01:23.489Z"
+      },
+      "penjelasan vision": {
+        "content": {
+          "text": " *\"Vision biasa\"* \nkemungkinan merujuk pada layanan TV berbayar tradisional dari MNC Group seperti MNC Vision atau K-Vision, sementara.\n\n*Vision+*\n layanan streaming media digital terintegrasi yang mencakup siaran TV langsung (lokal dan internasional), video sesuai permintaan (VOD), serta serial orisinal.",
+          "media": null
+        },
+        "addedAt": "2026-01-16T03:01:52.508Z"
       }
     }
   }
