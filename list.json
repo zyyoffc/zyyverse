@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-16T02:33:18.604Z",
+    "updatedAt": "2026-01-16T02:40:40.133Z",
     "list": {
       "viu": {
         "content": {
@@ -211,6 +211,13 @@
           "media": null
         },
         "addedAt": "2026-01-16T02:33:18.604Z"
+      },
+      "camscanner": {
+        "content": {
+          "text": " *CAMSCANNER*\n\n*SHARING :*\n- 1 bulan : 11.000\n- 1 tahun : 25.000\n\n*PRIVATE:*\n- 1 bulan : 20.000",
+          "media": null
+        },
+        "addedAt": "2026-01-16T02:40:40.133Z"
       }
     }
   },
