@@ -237,7 +237,7 @@
   },
   "120363404921649211@g.us": {
     "createdAt": "2026-01-16T02:32:27.666Z",
-    "updatedAt": "2026-01-16T02:58:40.793Z",
+    "updatedAt": "2026-01-16T03:00:54.855Z",
     "list": {
       "am": {
         "content": {
@@ -511,6 +511,13 @@
           "media": null
         },
         "addedAt": "2026-01-16T02:58:40.793Z"
+      },
+      "penjelasan canva head": {
+        "content": {
+          "text": " _*CARA INVITE MEMBER CANVA HEAD*_\n\n° invite by email cuma bisa sampe 9 member\n° selanjutnya salin link untuk invite (tidak bisa by email)\n°member ke 10 dan seterusnya invite by link\n° minta ss tim untuk memastikan cust tidak menyebar link dan cuma klik link 1 kali\n° simpan link invite, karna cuma bisa sekali salin",
+          "media": null
+        },
+        "addedAt": "2026-01-16T03:00:54.855Z"
       }
     }
   }
