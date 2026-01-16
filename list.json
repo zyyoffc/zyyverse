@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-16T03:51:36.118Z",
+    "updatedAt": "2026-01-16T04:19:52.147Z",
     "list": {
       "viu": {
         "content": {
@@ -260,6 +260,13 @@
           "media": null
         },
         "updatedAt": "2026-01-16T03:51:36.118Z"
+      },
+      "sewabot": {
+        "content": {
+          "text": " *SEWABOT*\n\nSEWABOT STORE 1 BULAN 20.000\nSEWABOT STORE PERMANEN 40.000",
+          "media": null
+        },
+        "addedAt": "2026-01-16T04:19:52.147Z"
       }
     }
   },
