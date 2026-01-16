@@ -223,7 +223,7 @@
   },
   "120363404921649211@g.us": {
     "createdAt": "2026-01-16T02:32:27.666Z",
-    "updatedAt": "2026-01-16T02:43:17.165Z",
+    "updatedAt": "2026-01-16T02:43:59.245Z",
     "list": {
       "am": {
         "content": {
@@ -343,6 +343,13 @@
           "media": null
         },
         "addedAt": "2026-01-16T02:43:17.165Z"
+      },
+      "format garansi": {
+        "content": {
+          "text": "𝐎𝐓𝐇𝐄𝐑𝐒 𝐀𝐏𝐏 𝐑𝐄𝐏𝐎𝐑𝐓 𝐅𝐎𝐑𝐌\n\n⤿ nama app: \n⤿ email :\n⤿ password : \n⤿ private/sharing : \n⤿ durasi : \n⤿ tgl buy :\n⤿ tgl rusak: \n⤿ sisa durasi :\n⤿ problem :\n\n• sertakan screenshots bukti problem dalam 1 bubble chat!\n\n_waktu garansi max 3 days. jika lebih dari 3 days sialakan chat ulang yaa^^_",
+          "media": null
+        },
+        "addedAt": "2026-01-16T02:43:59.245Z"
       }
     }
   }
