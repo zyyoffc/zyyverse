@@ -732,7 +732,7 @@
   },
   "120363422381262394@g.us": {
     "createdAt": "2026-01-16T10:59:39.902Z",
-    "updatedAt": "2026-01-17T05:28:41.709Z",
+    "updatedAt": "2026-01-17T05:29:57.148Z",
     "list": {
       "bimbingan cara kerja reseller": {
         "content": {
@@ -810,6 +810,13 @@
           "media": null
         },
         "updatedAt": "2026-01-17T05:28:41.709Z"
+      },
+      "istilah app prem": {
+        "content": {
+          "text": "    \n𝙸𝚜𝚝𝚒𝚕𝚊𝚑 𝐀𝐩𝐩 𝐏𝐫𝐞𝐦 ✨\n\n 𖹭sharing : akun berbagi dengan pembeli lain\n𖹭 private : dipake sendiri\n𖹭 buyer : pembeli\n𖹭 seller : penjual\n𖹭 Acc S: Akun seller\n𖹭 Acc B: Akun buyer\n𖹭 nogar : no garansi, tida bisa komplain jika ada problem pada akun\n𖹭 fullgar : garansi full asal patuhi snk\n𖹭 yopmail: web verif email fake\n𖹭 u : user/pengguna, contoh \"sharing 3u\"\n𖹭 head : bisa invite orang lain\n𖹭 member : member dari sebuah tim, tida bisa akses fitur khusus\n𖹭 famplan : join tim, sama kaya member, dalam kasus spotify famplan akun nya dipake bareng bareng\n𖹭 indplan : sama kaya private, dipake sendiri\n𖹭 famhead : sama kaya head, bisa invit orang\n𖹭 bf : backfree, akun tiba tiba ga prem\n𖹭 wiped/disable : akun uda ga aktif = no garansi\n𖹭 ppj : perpanjang\n𖹭 limit screen : batasan jumlah layar / batasan jumlah pengguna pake di dalam waktu bersamaan\n𖹭 renew : ganti email/akun per bulan / minggu",
+          "media": null
+        },
+        "addedAt": "2026-01-17T05:29:57.148Z"
       }
     }
   },
