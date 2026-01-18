@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-18T07:52:15.546Z",
+    "updatedAt": "2026-01-18T07:58:56.563Z",
     "list": {
       "viu": {
         "content": {
@@ -309,6 +309,13 @@
           "media": null
         },
         "addedAt": "2026-01-18T07:43:35.324Z"
+      },
+      "penjelasan app premium": {
+        "content": {
+          "text": " *PENJELASAN APLIKASI PREMIUM*\n\n- 1P1U : 1 profil hanya 1 user (1 orang yang pakai) login max 1 device\n\n- 1P2U : 1 profil 2 user (2 orang yang pakai, kamu sama buyerku yang lain) max login 1 device\n\n- PRIVATE : 1 akun hanya 1 orang yang pakai, tidak dibagi dengan orang lain\n\n- SHARING : 1akun digunakan bersama dengan user lain [bisa 2-10 user]\n\n- SEMI PRIVAT : mirip dengan 1p1u, bedanya kamu boleh login max 2 device\n\n- U : user/pengguna\n\n- MEMBER : di undang ke akun premium \n\n- OWNER : kamu sebagai pemilik utama akun, bisa invt orang lain\n\n- LIFETIME : berlaku selamanya\n\n- NW/NOGAR : no warranty, no garansi, artinya jika terjadi masalah itu resiko sendiri\n\n- FW/FULLGAR : full warranty atau full garansi, jadi kamu punya garansi penuh sesuai durasi yang kamu beli\n\n- FAMPLAN (FAMILY PLAN) : paket keluarga, kamu masuk sebagai member\n\n- INDPLAN (INDIVIDUAL PLAN) : akun tunggal yang di premiumkan\n\n- MIXPLAN : campuran antara beberapa jenis plan (contoh : yt fam+indp)\n\n- STD(STANDAR) : paket dasar dengan fitur terbatas\n\n- PREM : paket lengkap dengan semua fitur prem \n\n- ACC BUYER : akun dari pembeli\n \n- ACC SELLER : akun dari penjual\n\n- PPJ/RENEW : akun bisa diperpanjang\n\n- BF/BACK FREE : langganan prem akun hilang/tidak aktif karana terdeteksi sebagai akun yang tidak sah pembayarannya\n\n- SNK : syarat dan ketentuan",
+          "media": null
+        },
+        "addedAt": "2026-01-18T07:58:56.563Z"
       }
     }
   },
