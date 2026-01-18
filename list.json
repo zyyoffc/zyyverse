@@ -885,7 +885,7 @@
   },
   "120363404959543942@g.us": {
     "createdAt": "2026-01-17T02:02:24.200Z",
-    "updatedAt": "2026-01-18T03:00:20.777Z",
+    "updatedAt": "2026-01-18T03:01:05.050Z",
     "list": {
       "ge": {
         "content": {
@@ -930,6 +930,16 @@
           }
         },
         "addedAt": "2026-01-18T03:00:20.777Z"
+      },
+      "a": {
+        "content": {
+          "text": "o",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1768705263481.jpg"
+          }
+        },
+        "addedAt": "2026-01-18T03:01:05.050Z"
       }
     }
   }
