@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-16T16:31:13.921Z",
+    "updatedAt": "2026-01-18T00:27:29.569Z",
     "list": {
       "viu": {
         "content": {
@@ -263,10 +263,10 @@
       },
       "sewabot": {
         "content": {
-          "text": " *SEWABOT*\n\nSEWABOT STORE 1 BULAN 20.000\nSEWABOT STORE PERMANEN 40.000",
+          "text": " *SEWABOT*\n\nSEWABOT STORE 1 BULAN 20.000\nSEWABOT STORE PERMANEN 40.000\n\n*SEWABOT FUN : 30.000*",
           "media": null
         },
-        "addedAt": "2026-01-16T04:19:52.147Z"
+        "updatedAt": "2026-01-18T00:27:29.569Z"
       },
       "member saluran wa": {
         "content": {
