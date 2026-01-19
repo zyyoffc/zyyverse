@@ -858,7 +858,7 @@
   },
   "120363421830993844@g.us": {
     "createdAt": "2026-01-16T06:01:06.282Z",
-    "updatedAt": "2026-01-19T15:29:11.813Z",
+    "updatedAt": "2026-01-19T15:30:23.937Z",
     "list": {
       "pay": {
         "content": {
@@ -869,6 +869,16 @@
           }
         },
         "addedAt": "2026-01-19T15:29:11.813Z"
+      },
+      "qris": {
+        "content": {
+          "text": " *kirim bukti pay di group*",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1768836622172.jpg"
+          }
+        },
+        "addedAt": "2026-01-19T15:30:23.937Z"
       }
     }
   },
