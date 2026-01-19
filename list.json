@@ -21,7 +21,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-19T00:19:30.335Z",
+    "updatedAt": "2026-01-19T00:41:56.580Z",
     "list": {
       "viu": {
         "content": {
@@ -323,6 +323,16 @@
           "media": null
         },
         "addedAt": "2026-01-18T08:00:42.003Z"
+      },
+      "qris": {
+        "content": {
+          "text": " send bukti tf ke GC\nQris no fee",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1768783314485.jpg"
+          }
+        },
+        "addedAt": "2026-01-19T00:41:56.580Z"
       }
     }
   },
