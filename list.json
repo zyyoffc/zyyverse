@@ -1112,7 +1112,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-19T09:25:32.953Z",
+    "updatedAt": "2026-01-19T09:26:02.942Z",
     "list": {
       "alight motion": {
         "content": {
@@ -1141,6 +1141,13 @@
           "media": null
         },
         "addedAt": "2026-01-19T09:25:32.953Z"
+      },
+      "cam scanner": {
+        "content": {
+          "text": " ── .✦ *CAM SCANNER*🍃\n๑┈•✦ *SHARING*\n⊹ 1 bulan : 5.000\n⊹ 1 tahun: 14.000",
+          "media": null
+        },
+        "addedAt": "2026-01-19T09:26:02.942Z"
       }
     }
   }
