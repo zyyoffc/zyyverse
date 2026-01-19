@@ -1119,7 +1119,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-19T10:04:21.366Z",
+    "updatedAt": "2026-01-19T11:30:01.180Z",
     "list": {
       "alight motion": {
         "content": {
@@ -1400,6 +1400,16 @@
           "media": null
         },
         "addedAt": "2026-01-19T10:04:21.366Z"
+      },
+      "qris": {
+        "content": {
+          "text": " kirim bukti transfer di group",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1768822199082.jpg"
+          }
+        },
+        "addedAt": "2026-01-19T11:30:01.180Z"
       }
     }
   }
