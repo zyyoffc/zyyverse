@@ -858,7 +858,7 @@
   },
   "120363421830993844@g.us": {
     "createdAt": "2026-01-16T06:01:06.282Z",
-    "updatedAt": "2026-01-19T15:47:07.170Z",
+    "updatedAt": "2026-01-19T15:49:37.087Z",
     "list": {
       "pay": {
         "content": {
@@ -893,6 +893,13 @@
           "media": null
         },
         "addedAt": "2026-01-19T15:47:07.170Z"
+      },
+      "sewabot store": {
+        "content": {
+          "text": "*_Hallo ka untuk harga sewa bot store adalah 15.000/bulan. Bot ini dapat digunakan untuk membantu kamu dalam mengelola store kamuu💯",
+          "media": null
+        },
+        "addedAt": "2026-01-19T15:49:37.087Z"
       }
     }
   },
