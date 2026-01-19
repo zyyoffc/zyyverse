@@ -1119,7 +1119,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-19T09:46:40.799Z",
+    "updatedAt": "2026-01-19T09:47:30.093Z",
     "list": {
       "alight motion": {
         "content": {
@@ -1351,6 +1351,13 @@
           "media": null
         },
         "addedAt": "2026-01-19T09:46:40.799Z"
+      },
+      "reelshort": {
+        "content": {
+          "text": "── .✦ *REEL SHORT*🍃\n๑┈•✦♧ \n⊹ 1 Bulan Sharing: 9.000\n> Wajib ss login",
+          "media": null
+        },
+        "addedAt": "2026-01-19T09:47:30.093Z"
       }
     }
   }
