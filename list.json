@@ -1119,7 +1119,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-19T09:58:54.495Z",
+    "updatedAt": "2026-01-19T10:04:21.366Z",
     "list": {
       "alight motion": {
         "content": {
@@ -1393,6 +1393,13 @@
           "media": null
         },
         "addedAt": "2026-01-19T09:58:54.495Z"
+      },
+      "shortmax": {
+        "content": {
+          "text": "── .✦ *SHORTMAX*🍃\n๑┈•✦♧ \n⊹ Sharing 1 Bulan: 11.500\n> No rush",
+          "media": null
+        },
+        "addedAt": "2026-01-19T10:04:21.366Z"
       }
     }
   }
