@@ -1119,7 +1119,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-19T11:30:01.180Z",
+    "updatedAt": "2026-01-19T11:31:46.986Z",
     "list": {
       "alight motion": {
         "content": {
@@ -1410,6 +1410,16 @@
           }
         },
         "addedAt": "2026-01-19T11:30:01.180Z"
+      },
+      "pay": {
+        "content": {
+          "text": "tes",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1768822304925.jpg"
+          }
+        },
+        "addedAt": "2026-01-19T11:31:46.986Z"
       }
     }
   }
