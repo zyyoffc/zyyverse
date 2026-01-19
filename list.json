@@ -1119,7 +1119,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-19T09:36:52.195Z",
+    "updatedAt": "2026-01-19T09:37:22.519Z",
     "list": {
       "alight motion": {
         "content": {
@@ -1274,6 +1274,13 @@
           "media": null
         },
         "addedAt": "2026-01-19T09:36:52.195Z"
+      },
+      "movie box": {
+        "content": {
+          "text": "── .✦ *MOVIE BOX*🍃\n๑┈•✦♧ *SHARING*\n⊹ 1 Bulan : 8.000\n> Gar= patuhi SnK!",
+          "media": null
+        },
+        "addedAt": "2026-01-19T09:37:22.519Z"
       }
     }
   }
