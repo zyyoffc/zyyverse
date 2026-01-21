@@ -858,7 +858,7 @@
   },
   "120363421830993844@g.us": {
     "createdAt": "2026-01-16T06:01:06.282Z",
-    "updatedAt": "2026-01-21T15:45:27.311Z",
+    "updatedAt": "2026-01-21T15:45:52.312Z",
     "list": {
       "pay": {
         "content": {
@@ -934,6 +934,16 @@
           }
         },
         "addedAt": "2026-01-21T15:45:27.311Z"
+      },
+      "arena breakout": {
+        "content": {
+          "text": "LIST TOPUP ARENA BREAKOUT\n\nVIA USER ID\nPENGISIAN BONDS\n\n60+6 BONUS 16.000\n310+25 BONUS 71.000\n630+45 BONUS 145.000\n1.580+110 BONUS 350.000\n3.200+200 BONUS 645.000\n6.500+320 BONUS 1.300.000",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769010350126.jpg"
+          }
+        },
+        "addedAt": "2026-01-21T15:45:52.312Z"
       }
     }
   },
