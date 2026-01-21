@@ -858,7 +858,7 @@
   },
   "120363421830993844@g.us": {
     "createdAt": "2026-01-16T06:01:06.282Z",
-    "updatedAt": "2026-01-21T15:44:43.220Z",
+    "updatedAt": "2026-01-21T15:45:27.311Z",
     "list": {
       "pay": {
         "content": {
@@ -914,6 +914,26 @@
           "media": null
         },
         "addedAt": "2026-01-21T15:44:43.220Z"
+      },
+      "pubg mobile": {
+        "content": {
+          "text": "LIST TOPUP PUBG MOBILE\n\nVIA USER ID\n\n60 UC 16.000\n120 UC 30.500\n240 UC 60.000\n300 UC 88.000\n445 UC 106.000\n505 UC 120.000\n600 UC 150.000\n720 UC 165.000\n900 UC 212.000\n1.000 UC 235.000\n1.500 UC 340.000\n1.800 UC 360.000\n2125 UC 445.000\n2460 UC 515.000",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769010325596.jpg"
+          }
+        },
+        "addedAt": "2026-01-21T15:45:26.734Z"
+      },
+      "fc mobile": {
+        "content": {
+          "text": "LIST TOPUP FC MOBILE\n\nVIA USER ID\n\n40 FC POINT 7.500\n100 FC POINT 16.500\n520 FC POINT 77.000\n1.070 FC POINT 155.000\n2.200 FC POINT 320.000\n5750 FC POINT 760.000",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769010324956.jpg"
+          }
+        },
+        "addedAt": "2026-01-21T15:45:27.311Z"
       }
     }
   },
