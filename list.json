@@ -2479,5 +2479,21 @@
         "addedAt": "2026-01-23T09:54:23.914Z"
       }
     }
+  },
+  "120363423980617510@g.us": {
+    "createdAt": "2026-01-23T09:59:05.192Z",
+    "updatedAt": "2026-01-23T09:59:05.192Z",
+    "list": {
+      "free fire": {
+        "content": {
+          "text": "LIST TOPUP FREE FIRE\n\n5 DIAMOND 1.200\n20 DIAMOND 4.000\n50 DIAMOND 7.000\n100 DIAMOND 13.500\n140 DIAMOND 18.300\n160 DIAMOND 21.500\n200 DIAMOND 27.000\n300 DIAMOND 38.500\n400 DIAMOND 51.000\n500 DIAMOND 63.000\n635 DIAMOND 78.000\n800 DIAMOND 97.000\n1000 DIAMOND 122.000\n1800 DIAMOND 216.000\n2000 DIAMOND 241.000\n\nLEVEL UP PASS LVL6 6.500\nLEVEL UP PASS LVL 7.500\nLEVEL UP PASS LVL25 9.000\nLEVEL UP PASS LVL30 14.000\nMEMBERSHIP MINGGUAN 28.000\nFREE FIRE BOOYAH PASS CARDB 39.000\nMEMBERSHIP BULANAN 82.000",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769162341730.jpg"
+          }
+        },
+        "addedAt": "2026-01-23T09:59:05.192Z"
+      }
+    }
   }
 }
