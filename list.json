@@ -2235,7 +2235,7 @@
   },
   "120363402537752257@g.us": {
     "createdAt": "2026-01-23T09:20:51.259Z",
-    "updatedAt": "2026-01-23T09:51:48.484Z",
+    "updatedAt": "2026-01-23T09:52:39.172Z",
     "list": {
       "wetv": {
         "content": {
@@ -2432,6 +2432,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T09:51:48.484Z"
+      },
+      "format order": {
+        "content": {
+          "text": "🧺 FORMAT ORDER \n— ORDER APP PREM \n: 𖥻 Nama + username :\n: 𖥻 Tanggal order :\n: 𖥻 Nama aplikasi :\n: 𖥻 Durasi :\n: 𖥻 Payment :\n: 𖥻 keterangan :priv/shar/\n          1p1u/1p2u/lifetime",
+          "media": null
+        },
+        "addedAt": "2026-01-23T09:52:39.172Z"
       }
     }
   }
