@@ -1601,7 +1601,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-01-23T08:49:29.035Z",
+    "updatedAt": "2026-01-23T08:50:28.073Z",
     "list": {
       "format netflix": {
         "content": {
@@ -1833,6 +1833,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T08:49:29.035Z"
+      },
+      "penjelasan netflix": {
+        "content": {
+          "text": "Penjelasan Paket Netflix Sharing\n\nBerikut adalah perbedaan jenis akun Netflix sharing yang umum dijual:\n\n1. ANTILIMIT / VVIP\n\n· Kelebihan: Anti gangguan \"Limit Screen\".\n· Cara Kerja: Satu profil untuk satu orang. Jika 4 orang menonton bersamaan, tidak akan ada yang terkena limit. Paling aman untuk menonton tanpa khawatir.\n· Keterangan: Maksimal 4 profil, setiap profil hanya bisa login di 1-2 perangkat.\n\n2. 1 USER (1u)\n\n· Keterangan: Satu profil untuk satu orang.\n· Kekurangan: Jika kapasitas penuh (misal 4 orang menonton), penonton ke-5 akan terkena Limit Screen dan harus menunggu hingga ada yang selesai.\n\n3. 2 USER (2u)\n\n· Keterangan: Satu profil bisa dipakai bergantian oleh 2 orang.\n· Kekurangan: Risiko kena Limit Screen lebih tinggi. Jika 4 profil dipakai bersamaan, maka 6 orang lainnya (karena 2u per profil) harus antri.\n\n4. SEMI PRIVATE (2 Device)\n\n· Kelebihan: Satu profil bisa login di 2 perangkat (misal TV & HP).\n· Kekurangan: Sama seperti 1u, memiliki batas jumlah penonton bersamaan. Jika penuh, akan kena Limit Screen.\n\n5. PRIVATE ACCOUNT\n\n· Kelebihan: Akun pribadi milik sendiri.\n· Fitur: Bebas atur password, PIN, dan akses. Dapat 5 profil yang bisa dijual kembali (maksimal 10 buyer). Bisa akses download film.\n\n---\n\nTips Jika Kena Limit Screen\n\nJika akun Anda terkena Limit Screen, solusinya:\n\n1. Fitur Download: Gunakan fitur download untuk menonton secara offline.\n2. Bersihkan History: Setelah selesai menonton, hapus film yang sudah didownload dari history untuk menghemat kapasitas akun.\n\nIngat: Akun sharing dipakai bersama, jadi hak akses semua member sama. Mari saling menghargai.",
+          "media": null
+        },
+        "addedAt": "2026-01-23T08:50:28.073Z"
       }
     }
   },
