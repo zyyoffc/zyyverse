@@ -2026,7 +2026,7 @@
   },
   "120363403884429934@g.us": {
     "createdAt": "2026-01-23T09:19:12.830Z",
-    "updatedAt": "2026-01-23T09:48:40.193Z",
+    "updatedAt": "2026-01-23T09:49:11.605Z",
     "list": {
       "payment": {
         "content": {
@@ -2202,6 +2202,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T09:48:40.193Z"
+      },
+      "cara order": {
+        "content": {
+          "text": "  \nCara Order:\n\n1. Ketik list untuk melihat menu.\n\n\n2. Jika ingin melakukan pembayaran, ketik pay atau qris sesuai metode yang dipilih.\n\n\n3. Setelah transfer, kirim bukti transaksi ke grup.\n\n\n4. Sertakan keterangan pesanan (apa yang dibeli) agar pesanan dapat diproses.",
+          "media": null
+        },
+        "addedAt": "2026-01-23T09:49:11.605Z"
       }
     }
   },
