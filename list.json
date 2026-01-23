@@ -1601,7 +1601,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-01-23T08:41:19.797Z",
+    "updatedAt": "2026-01-23T08:42:04.757Z",
     "list": {
       "format netflix": {
         "content": {
@@ -1777,6 +1777,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T08:41:19.797Z"
+      },
+      "mcgg": {
+        "content": {
+          "text": " LIST TOPUP MCGG\n\n5 DIAMOND 3.000\n12 DIAMOND 5.000\n19 DIAMOND 7.000\n28 DIAMOND 10.000\n44 DIAMOND 12.000\n59 DIAMOND 16.000\n85 DIAMOND 22.000\n170 DIAMOND 41.000\n240 DIAMOND 54.000\n296 DIAMOND 70.000\n408 DIAMOND 83.500\n568 DIAMOND 127.000\n875 DIAMOND 199.000\n2010 DIAMOND 435.000",
+          "media": null
+        },
+        "addedAt": "2026-01-23T08:42:04.757Z"
       }
     }
   },
