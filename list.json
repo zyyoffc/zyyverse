@@ -1601,7 +1601,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-01-23T08:25:15.861Z",
+    "updatedAt": "2026-01-23T08:27:15.021Z",
     "list": {
       "format netflix": {
         "content": {
@@ -1707,6 +1707,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T08:25:15.861Z"
+      },
+      "format order": {
+        "content": {
+          "text": "🧺 FORMAT ORDER \n— ORDER APP PREM \n: 𖥻 Nama + username :\n: 𖥻 Tanggal order :\n: 𖥻 Nama aplikasi :\n: 𖥻 Durasi :\n: 𖥻 Payment :\n: 𖥻 keterangan :priv/shar/\n          1p1u/1p2u/lifetime",
+          "media": null
+        },
+        "addedAt": "2026-01-23T08:27:15.021Z"
       }
     }
   },
