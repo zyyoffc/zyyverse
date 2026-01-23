@@ -1601,7 +1601,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-01-23T08:14:39.719Z",
+    "updatedAt": "2026-01-23T08:17:36.732Z",
     "list": {
       "format netflix": {
         "content": {
@@ -1672,6 +1672,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T08:14:39.719Z"
+      },
+      "cara order": {
+        "content": {
+          "text": " \nCara Order:\n\n1. Ketik list untuk melihat menu.\n\n\n2. Jika ingin melakukan pembayaran, ketik pay atau qris sesuai metode yang dipilih.\n\n\n3. Setelah transfer, kirim bukti transaksi ke grup.\n\n\n4. Sertakan keterangan pesanan (apa yang dibeli) agar pesanan dapat diproses.",
+          "media": null
+        },
+        "addedAt": "2026-01-23T08:17:36.732Z"
       }
     }
   },
