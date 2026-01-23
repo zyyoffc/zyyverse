@@ -2661,7 +2661,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-01-23T10:46:18.620Z",
+    "updatedAt": "2026-01-23T10:46:57.831Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -2669,6 +2669,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T10:46:18.620Z"
+      },
+      "canva": {
+        "content": {
+          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ PRICE LIST CANVA  ✨\n\n✦ 1 Bulan : 5k\n✦ 1 Tahun : 15k\n✦ Lifetime : 20k\n\n━━━━━━━━━━━━━━\n✨Thank You For Trusting Us✨",
+          "media": null
+        },
+        "addedAt": "2026-01-23T10:46:57.831Z"
       }
     }
   }
