@@ -1601,7 +1601,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-01-23T08:51:29.806Z",
+    "updatedAt": "2026-01-23T08:52:17.128Z",
     "list": {
       "format netflix": {
         "content": {
@@ -1847,6 +1847,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T08:51:29.806Z"
+      },
+      "penjelasan spotify": {
+        "content": {
+          "text": "  \n PERBEDAAN SPOTIFY PLAN \n\n1. Family plan (Famplan) : lebih murah karena ibarat akun keluarga kamu diinvite ke satu family namun tidak tercampur.\n\n2. Individual plan (Indplan) : akun kamu dipremiumkan sendiri. memerlukan email spotify & password spotify ( bukan email & pass google)\n\n𖹭.ᐟ Replace & No Replace\n1. Replace: kebanyakan followers dan following hilang namun tergantung seller juga, playlist dll aman\n\n2. No Replace: prosesnya tidak merubah apa-apa sehingga followers, following, liked songs, playlist, albums, lagu yang didownload dan artist semua tidak hilang - aman.\nUntuk saat ini sudah jarang no replace, kebanyakan kalau akun fresh / aktivasi bisa no replace.",
+          "media": null
+        },
+        "addedAt": "2026-01-23T08:52:17.128Z"
       }
     }
   },
