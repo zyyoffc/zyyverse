@@ -2974,7 +2974,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-01-24T12:53:39.308Z",
+    "updatedAt": "2026-01-24T12:58:39.810Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -3206,6 +3206,16 @@
           "media": null
         },
         "addedAt": "2026-01-24T11:20:16.949Z"
+      },
+      "info payment": {
+        "content": {
+          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ PAYMENT METHOD ✨  \n\n✦ SCAN QRIS\n📸🔎\n\n✦ DANA/SHOPEEPAY\n082117535790 a.n Fikri\n\n✦ SEABANK\n901114291285 a.n Fikri\n\n⚠ *PERHATIAN* ⚠\n✦ Transaksi hanya dilakukan pada akun yang tertera\n✦ Kesalahan input/transfer diluar tanggung jawab seller",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769259517874.jpg"
+          }
+        },
+        "addedAt": "2026-01-24T12:58:39.810Z"
       }
     }
   }
