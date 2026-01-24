@@ -1178,7 +1178,7 @@
   },
   "120363404959543942@g.us": {
     "createdAt": "2026-01-17T02:02:24.200Z",
-    "updatedAt": "2026-01-23T11:21:41.265Z",
+    "updatedAt": "2026-01-24T10:54:48.979Z",
     "list": {
       "ge": {
         "content": {
@@ -1240,6 +1240,16 @@
           "media": null
         },
         "addedAt": "2026-01-23T11:21:41.265Z"
+      },
+      "ooo": {
+        "content": {
+          "text": "gitu",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769252087403.jpg"
+          }
+        },
+        "addedAt": "2026-01-24T10:54:48.979Z"
       }
     }
   },
@@ -2836,7 +2846,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-01-24T10:54:39.480Z",
+    "updatedAt": "2026-01-24T10:44:25.840Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -3047,20 +3057,6 @@
           "media": null
         },
         "addedAt": "2026-01-24T10:44:25.840Z"
-      },
-      "info netflix error": {
-        "content": {
-          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ INFO NETFLIX ERROR ✨\nTIPS NETFLIX INCORRECT DI CUSTOMER TAPI DI SELLER BISA\n\nLOGIN PERTAMA TIDAK BOLEH PAKAI WIFI, PAKAI KUOTA!\nUNINSTALL APK NETFLIX DAN RESTART DEVICENYA BARU DOWNLOAD ULANG\n\nLogin via WEB PC\n1. clear cookies Netflix netflix.com/clearcookies -» lalu buka netflix.com -» klik sign in -» masukan email dan pin -» ketika login pilih profile yang telah ditentukan -» masukan pin\n2. Jika cara 1 tidak bisa maka coba restart laptop lalu login kembali dengan jaringan yang berbeda\n\nLOGIN VIA APP HP\n1. uninstall aplikasi > restart hp > install kembali aplikasi netflix kemudian login\n2. jika masih tidak bisa di menggunakan wifi, ganti dengan data seluler. Begitupun sebaliknya jika data seluler tidak bisa, coba gunakan hotspot dengan jaringan berbeda\n\nLOGIN DI SMART TV\n — jika akun tidak berfungsi atau dibekukan di TV pembeli tetapi berfungsi di perangkat lain, coba langkah-langkah ini.\n 1. Klik Masuk\n 2. Setelah memasukkan email, nanti ada Masuk dari Web di bagian bawah, klik \n 3. Kemudian scan qr dan masukan kode maka akun akan login. ga perlu login netflix di hp dlu, jadi tinggal scan pake camera hp aja\n\n⚠TIPS UNTUK MENGHINDARI AUTO RESET PASSWORD KARENA SUSPICIOUS ACTIVITY NETFLIX / TIPS MENGHINDARI FALSE INCO⚠\n\n‼️ JIKA LOGIN MELALUI APPS WAJIB LAKUKAN INI :\n1. Uninstall app\n2. Clear data dan clear cache app\n4. On mode pesawat 2menit\nLalu offkan\n5. Restart Device\n6. Lakukan ini lagi : On mode pesawat 2 menit\nLalu offkan\n7. Login dgn jaringan & device lancar!!!\n\n‼️UNTUK WEBSITE & TV WAJIB LAKUKAN INI\n1. Clear cache / Clear data website \n2. Clear cookies website baik chrome / safari / lainnya\n3. Restart jaringan dengan aktifkan mode pesawat 2 menit dan nyalakan ulang / Restart TV router & Restart WiFi\n4. Login dengan jaringan stabil dan device yang bersih serta email dan pass wajib sesuai, tidak spam login ❌\n\n‼️NETFLIX TUH SENSITIF, JADI KALO KALIAN KENA INCOR SEKALI JANGAN COBA LAGI LANGSUNG, TUNGGU 30 MENIT ATAU SEJAM BARU LOGIN ULANG\n‼️JANGAN ACUH JIKA SUDAH DIBERI EDUKASI OLEH SELLER / SUPP\n‼️RESS/BUYER WAJIB MEMAHAMI DAN MENGERTI KETENTUAN YANG SUDAH DIJELASKAN",
-          "media": null
-        },
-        "addedAt": "2026-01-24T10:47:48.701Z"
-      },
-      "info penjelasan canva": {
-        "content": {
-          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ INFO PENJELASAN CANVA ✨ \n\n> C𝖺𝗇𝗏𝖺 𝗆𝖾𝗆𝖻𝖾𝗋 \n- Akses Fitur Premium\n- Akses Template Premium\n- Akses Export Premium\n\n> L𝗂𝖿𝖾𝗍𝗂𝗆𝖾\n- Sama aja si, bedanya seumur idup aja",
-          "media": null
-        },
-        "addedAt": "2026-01-24T10:54:39.480Z"
       }
     }
   }
