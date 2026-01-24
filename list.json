@@ -1185,7 +1185,7 @@
   },
   "120363404959543942@g.us": {
     "createdAt": "2026-01-17T02:02:24.200Z",
-    "updatedAt": "2026-01-24T11:19:32.700Z",
+    "updatedAt": "2026-01-24T11:25:33.601Z",
     "list": {
       "ge": {
         "content": {
@@ -1311,6 +1311,16 @@
           "media": null
         },
         "addedAt": "2026-01-24T11:19:32.700Z"
+      },
+      "conan": {
+        "content": {
+          "text": "kudo",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769253932354.jpg"
+          }
+        },
+        "addedAt": "2026-01-24T11:25:33.601Z"
       }
     }
   },
