@@ -2836,7 +2836,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-01-24T10:26:54.954Z",
+    "updatedAt": "2026-01-24T10:28:41.850Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -3026,6 +3026,13 @@
           "media": null
         },
         "addedAt": "2026-01-24T10:15:01.630Z"
+      },
+      "info format order": {
+        "content": {
+          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ INFO FORMAT ORDER ✨\n— ORDER APP PREM \n✦ Nama :\n✦ Tanggal order :\n✦ Nama aplikasi :\n✦ Durasi :\n✦ keterangan : priv/shar/1p1u/1p2u/lifetime\n✦ Payment :\n✦ Merk Device :\n✦ Lokasi login :",
+          "media": null
+        },
+        "addedAt": "2026-01-24T10:28:41.850Z"
       }
     }
   }
