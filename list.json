@@ -1784,7 +1784,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-01-24T19:32:21.241Z",
+    "updatedAt": "2026-01-24T19:32:40.710Z",
     "list": {
       "format netflix": {
         "content": {
@@ -2177,6 +2177,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T23:02:05.109Z"
+      },
+      "format order": {
+        "content": {
+          "text": " nama aplikasi:\nketerangan aplikasi:\nnama device:\ntanggal order:",
+          "media": null
+        },
+        "addedAt": "2026-01-24T19:32:40.710Z"
       }
     }
   },
