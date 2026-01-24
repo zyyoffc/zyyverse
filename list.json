@@ -2907,7 +2907,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-01-24T11:20:16.949Z",
+    "updatedAt": "2026-01-24T11:22:30.972Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -3139,6 +3139,16 @@
           "media": null
         },
         "addedAt": "2026-01-24T11:20:16.949Z"
+      },
+      "info patment": {
+        "content": {
+          "text": "QRIS",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769253749033.jpg"
+          }
+        },
+        "addedAt": "2026-01-24T11:22:30.972Z"
       }
     }
   }
