@@ -973,7 +973,7 @@
   },
   "120363422381262394@g.us": {
     "createdAt": "2026-01-16T10:59:39.902Z",
-    "updatedAt": "2026-01-24T12:48:22.312Z",
+    "updatedAt": "2026-01-24T12:48:39.997Z",
     "list": {
       "bimbingan cara kerja reseller": {
         "content": {
@@ -1227,6 +1227,16 @@
           "media": null
         },
         "addedAt": "2026-01-24T12:48:22.312Z"
+      },
+      "promo kopi kenangan 4": {
+        "content": {
+          "text": " kalo masih bingung gimana sistem nya bisa ketik di grub \"penjelasan kopi kenangan\" ya",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769258918602.jpg"
+          }
+        },
+        "addedAt": "2026-01-24T12:48:39.997Z"
       }
     }
   },
