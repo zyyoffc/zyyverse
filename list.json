@@ -2907,7 +2907,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-01-24T11:19:12.074Z",
+    "updatedAt": "2026-01-24T11:20:16.949Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -3132,6 +3132,13 @@
           "media": null
         },
         "addedAt": "2026-01-24T11:19:12.074Z"
+      },
+      "info penjelasan spotify": {
+        "content": {
+          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ INFO PENJELASAN SPOTIFY ✨  \nBerikut adalah perbedaan jenis akun Spotify sharing yang umum dijual:\n\n> Family plan (Famplan)\n✦ Lebih murah karena ibarat akun keluarga kamu diinvite ke satu family namun tidak tercampur.\n\n> Individual plan (Indplan)\n✦ Akun kamu dipremiumkan sendiri. memerlukan email spotify & password spotify ( bukan email & pass google)\n\n\n⚠ Replace & No Replace ⚠\n1. Replace: kebanyakan followers dan following hilang namun tergantung seller juga, playlist dll aman\n\n2. No Replace: prosesnya tidak merubah apa-apa sehingga followers, following, liked songs, playlist, albums, lagu yang didownload dan artist semua tidak hilang - aman.\n\n*Untuk saat ini sudah jarang no replace, kebanyakan kalau akun fresh / aktivasi bisa no replace.*\n\n📌 Tutor backup playlist spotify\n✦ buka http://spotmybackup.com\n✦ login akun lama kemudian klik ekspor saat loading playlist sudah selesai, setelah klik ekspor maka data playlist akan terdownload dan tersimpan di penyimpanan internal hp\n✦ logout dari akun lama jika sudah selesai ekspor, login ke akun baru kemudian klik import, akan muncul penyimpanan internal, kalian pilih file data playlist yang tadi kalian ekspor, donee tunggu hingga proses pemindahan selesai",
+          "media": null
+        },
+        "addedAt": "2026-01-24T11:20:16.949Z"
       }
     }
   }
