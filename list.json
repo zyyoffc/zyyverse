@@ -2836,7 +2836,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-01-24T10:28:41.850Z",
+    "updatedAt": "2026-01-24T10:35:23.553Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -3033,6 +3033,13 @@
           "media": null
         },
         "addedAt": "2026-01-24T10:28:41.850Z"
+      },
+      "info cara order": {
+        "content": {
+          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ INFO CARA ORDER ✨\n\n1. Ketik list untuk melihat menu.\n2. Pilih aplikasi yang diinginkan untuk melihat daftar harga\n3. Boleh tanyakan ketersediaan stok kepada admin dahulu, JANGAN KE BOT\n4. Jika ingin melakukan pembayaran, ketik pay\n5. Setelah transfer, kirim bukti transaksi ke pm admin, JANGAN KE BOT\n6. Sertakan keterangan pesanan (apa yang dibeli) agar pesanan dapat diproses.\n7. Setelah pesanan diproses, jangan lupa SS Login untuk aktifkan garansi",
+          "media": null
+        },
+        "addedAt": "2026-01-24T10:35:23.553Z"
       }
     }
   }
