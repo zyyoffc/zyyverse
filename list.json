@@ -1404,7 +1404,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-24T13:44:20.623Z",
+    "updatedAt": "2026-01-24T16:03:20.352Z",
     "list": {
       "apple music": {
         "content": {
@@ -1769,6 +1769,16 @@
           "media": null
         },
         "addedAt": "2026-01-24T13:44:20.623Z"
+      },
+      "pay": {
+        "content": {
+          "text": "── .✦ *PAYMENT*🍃\n๑┈•✦ *Syarat Payment*♧\n⊹ Jika ingin melakukan pembayaran, ketik pay.\n⊹ Setelah transfer, kirim bukti transaksi ke grup.\n⊹ Sertakan keterangan pesanan (apa yang dibeli) agar pesanan dapat langsung diproses.\n⊹ Jika ada komplen mengenai apk prem bisa hubungi owner🙏🏻",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769270598741.jpg"
+          }
+        },
+        "addedAt": "2026-01-24T16:03:20.352Z"
       }
     }
   },
