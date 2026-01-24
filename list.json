@@ -1178,7 +1178,7 @@
   },
   "120363404959543942@g.us": {
     "createdAt": "2026-01-17T02:02:24.200Z",
-    "updatedAt": "2026-01-24T11:11:57.846Z",
+    "updatedAt": "2026-01-24T11:12:35.063Z",
     "list": {
       "ge": {
         "content": {
@@ -1280,6 +1280,16 @@
           }
         },
         "addedAt": "2026-01-24T11:11:57.846Z"
+      },
+      "badak": {
+        "content": {
+          "text": "epik",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769253153984.jpg"
+          }
+        },
+        "addedAt": "2026-01-24T11:12:35.063Z"
       }
     }
   },
