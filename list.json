@@ -2836,7 +2836,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-01-24T07:07:39.546Z",
+    "updatedAt": "2026-01-24T10:15:01.630Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -3019,6 +3019,13 @@
           "media": null
         },
         "addedAt": "2026-01-23T11:11:33.899Z"
+      },
+      "info istilah": {
+        "content": {
+          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ ISTILAH APP PREMIUM✨\n\n✦ sharing : akun berbagi dengan pembeli lain\n✦ private : dipake sendiri\n✦ buyer : pembeli\n✦ seller : penjual\n✦ nogar : no garansi, tida bisa komplain jika ada problem pada akun\n✦ fullgar : garansi full asal patuhi snk\n✦ u : user/pengguna, contoh \"sharing 3u\"\n✦ member : member dari sebuah tim, tida bisa akses fitur khusus\n✦ famplan : join tim, sama kaya member, dalam kasus spotify famplan akun nya dipake bareng bareng\n✦ indplan : sama kaya private, dipake sendiri\n✦ bf : backfree, akun tiba tiba ga prem\n✦ wiped/disable : akun uda ga aktif = no garansi\n✦ ppj : perpanjang\n✦ limit screen : batasan jumlah layar / batasan jumlah pengguna pake di dalam waktu bersamaan\n✦ renew : ganti email per bulan / minggu",
+          "media": null
+        },
+        "addedAt": "2026-01-24T10:15:01.630Z"
       }
     }
   }
