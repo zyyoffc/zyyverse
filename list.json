@@ -1178,7 +1178,7 @@
   },
   "120363404959543942@g.us": {
     "createdAt": "2026-01-17T02:02:24.200Z",
-    "updatedAt": "2026-01-24T10:58:38.679Z",
+    "updatedAt": "2026-01-24T10:54:48.979Z",
     "list": {
       "ge": {
         "content": {
@@ -1250,16 +1250,6 @@
           }
         },
         "addedAt": "2026-01-24T10:54:48.979Z"
-      },
-      "hmm": {
-        "content": {
-          "text": "hmss",
-          "media": {
-            "type": "image",
-            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769252317392.jpg"
-          }
-        },
-        "addedAt": "2026-01-24T10:58:38.679Z"
       }
     }
   },
@@ -2856,7 +2846,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-01-24T10:44:25.840Z",
+    "updatedAt": "2026-01-24T10:59:59.373Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -3067,6 +3057,13 @@
           "media": null
         },
         "addedAt": "2026-01-24T10:44:25.840Z"
+      },
+      "info penjelasan netflix": {
+        "content": {
+          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ INFO PENJELASAN NETFLIX ✨ \nBerikut adalah perbedaan jenis akun Netflix sharing yang umum dijual:\n\n> 1 USER (1u)\n\n✦ Keterangan: Satu profil untuk satu orang.\n✦ Kekurangan: Jika kapasitas penuh (misal 4 orang menonton), penonton ke-5 akan terkena Limit Screen dan harus menunggu hingga ada yang selesai.\n\n> 2 USER (2u)\n\n✦ Keterangan: Satu profil bisa dipakai bergantian oleh 2 orang.\n✦ Kekurangan: Risiko kena Limit Screen lebih tinggi. Jika 4 profil dipakai bersamaan, maka 6 orang lainnya (karena 2u per profil) harus antri.\n\n> SEMI PRIVATE (2 Device)\n\n✦ Kelebihan: Satu profil bisa login di 2 perangkat (misal TV & HP).\n· Kekurangan: Sama seperti 1u, memiliki batas jumlah penonton bersamaan. Jika penuh, akan kena Limit Screen.\n\n---\n\nTips Jika Kena Limit Screen\n\nJika akun Anda terkena Limit Screen, solusinya:\n\n1. Fitur Download: Gunakan fitur download untuk menonton secara offline.\n2. Bersihkan History: Setelah selesai menonton, hapus film yang sudah didownload dari history untuk menghemat kapasitas akun.\n\nIngat: Akun sharing dipakai bersama, jadi hak akses semua member sama. Mari saling menghargai.",
+          "media": null
+        },
+        "addedAt": "2026-01-24T10:59:59.373Z"
       }
     }
   }
