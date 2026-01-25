@@ -970,7 +970,7 @@
   },
   "120363422381262394@g.us": {
     "createdAt": "2026-01-16T10:59:39.902Z",
-    "updatedAt": "2026-01-25T12:09:24.127Z",
+    "updatedAt": "2026-01-25T13:10:49.849Z",
     "list": {
       "bimbingan cara kerja reseller": {
         "content": {
@@ -1311,6 +1311,13 @@
           "media": null
         },
         "addedAt": "2026-01-25T12:09:24.127Z"
+      },
+      "nokos": {
+        "content": {
+          "text": "nokos wa indo 6k",
+          "media": null
+        },
+        "addedAt": "2026-01-25T13:10:49.849Z"
       }
     }
   },
