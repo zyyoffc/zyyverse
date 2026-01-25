@@ -1443,7 +1443,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-24T16:03:20.352Z",
+    "updatedAt": "2026-01-25T10:31:11.788Z",
     "list": {
       "apple music": {
         "content": {
@@ -1818,6 +1818,13 @@
           }
         },
         "addedAt": "2026-01-24T16:03:20.352Z"
+      },
+      "tutor login am": {
+        "content": {
+          "text": "https://youtube.com/shorts/XkkMYGyaowo?si=lt1Kg5dz8ixSP7E5\n\nikuti sesuai video yaa",
+          "media": null
+        },
+        "addedAt": "2026-01-25T10:31:11.788Z"
       }
     }
   },
