@@ -1,7 +1,7 @@
 {
   "120363423932349761@g.us": {
     "createdAt": "2026-01-14T16:48:05.707Z",
-    "updatedAt": "2026-01-15T11:30:40.459Z",
+    "updatedAt": "2026-01-26T13:02:42.773Z",
     "list": {
       "zyy": {
         "content": {
@@ -16,6 +16,16 @@
           "media": null
         },
         "addedAt": "2026-01-15T11:30:40.459Z"
+      },
+      "qris": {
+        "content": {
+          "text": "p",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769432561662.jpg"
+          }
+        },
+        "addedAt": "2026-01-26T13:02:42.773Z"
       }
     }
   },
