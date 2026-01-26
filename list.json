@@ -977,7 +977,7 @@
   },
   "120363422381262394@g.us": {
     "createdAt": "2026-01-16T10:59:39.902Z",
-    "updatedAt": "2026-01-26T07:47:44.650Z",
+    "updatedAt": "2026-01-26T08:04:57.890Z",
     "list": {
       "bimbingan cara kerja reseller": {
         "content": {
@@ -1346,6 +1346,13 @@
           "media": null
         },
         "addedAt": "2026-01-26T07:47:44.650Z"
+      },
+      "tutor login": {
+        "content": {
+          "text": "https://whatsapp.com/channel/0029VbBszol3mFYEQla6yx28",
+          "media": null
+        },
+        "addedAt": "2026-01-26T08:04:57.890Z"
       }
     }
   },
