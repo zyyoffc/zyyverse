@@ -2014,7 +2014,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-01-28T13:16:56.146Z",
+    "updatedAt": "2026-01-28T13:36:52.250Z",
     "list": {
       "adobe express": {
         "content": {
@@ -2494,6 +2494,13 @@
           "media": null
         },
         "addedAt": "2026-01-28T08:33:42.871Z"
+      },
+      "format garansi": {
+        "content": {
+          "text": " *form garansi other* \n\n─ ¤ aplikasi : \n─ ♤ tanggal order : \n─ ◇ email : \n─ ♧ password : \n─ ♡  type : \n─ ♡durasi pembelian : \n─ ◇ tanggal problem : \n─ ♧ problem : \n\n*wajib disertai dengan ss problem dalam satu bubble chat*\n\n ★note !\n▪︎ apabila format tidak lengkap, garansi tidak di proses\n▪︎ tidak mematuhi snk = void waranty \n▪︎ estimasi garansi 3x24 jam\n▪︎ no spam apabila belum lewat estimasi!\n▪︎ spam dan gasabaran? aku skip",
+          "media": null
+        },
+        "addedAt": "2026-01-28T13:36:52.250Z"
       }
     }
   },
