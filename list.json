@@ -3548,7 +3548,7 @@
   },
   "120363421682836400@g.us": {
     "createdAt": "2026-01-28T08:10:10.742Z",
-    "updatedAt": "2026-01-28T08:27:30.658Z",
+    "updatedAt": "2026-01-28T08:27:50.295Z",
     "list": {
       "alightmotion": {
         "content": {
@@ -3801,6 +3801,13 @@
           "media": null
         },
         "addedAt": "2026-01-28T08:27:30.658Z"
+      },
+      "pricelist": {
+        "content": {
+          "text": " Katalog / Pricelist\nhttps://padlet.com/odyssiaaa/pricelist-odyssiavault-71huexkbxhouprfg",
+          "media": null
+        },
+        "addedAt": "2026-01-28T08:27:50.295Z"
       }
     }
   }
