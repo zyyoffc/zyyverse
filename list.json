@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-28T11:55:26.419Z",
+    "updatedAt": "2026-01-28T11:59:07.700Z",
     "list": {
       "viu": {
         "content": {
@@ -448,6 +448,13 @@
           "media": null
         },
         "addedAt": "2026-01-28T11:55:26.419Z"
+      },
+      "nokos": {
+        "content": {
+          "text": " *NOKOS READY SEMUA* \n\ntanyakan ke admin di chat pribadi",
+          "media": null
+        },
+        "addedAt": "2026-01-28T11:59:07.700Z"
       }
     }
   },
