@@ -987,7 +987,7 @@
   },
   "120363422381262394@g.us": {
     "createdAt": "2026-01-16T10:59:39.902Z",
-    "updatedAt": "2026-01-28T08:02:00.923Z",
+    "updatedAt": "2026-01-28T08:35:52.321Z",
     "list": {
       "bimbingan cara kerja reseller": {
         "content": {
@@ -1107,16 +1107,6 @@
           "media": null
         },
         "addedAt": "2026-01-17T22:32:14.089Z"
-      },
-      "payment": {
-        "content": {
-          "text": "𝙃𝘼𝙄𝙔𝙔.. 𝙄𝙉𝙄 𝙋𝘼𝙔𝙈𝙀𝙉𝙏 💳\n> Qris All Payment🎗\n\n\n💵🄳🄰🄽🄰: 082296976094\n💵🄶🄾🄿🄰🅈: 082296976094\n💵🅂🄷🄾🄿🄴🄴 🄿🄰🅈: 082296976094\n\n🗒🇳 🇴 🇹 🇪 🇸 \n- 𝙎𝙘𝙖𝙣 𝙌𝙧𝙞𝙨 𝙩𝙞𝙙𝙖𝙠 𝙙𝙞 𝙠𝙚𝙣𝙖𝙠𝙖𝙣 𝙛𝙚𝙚\n- 𝙏𝙛 𝙎𝙚𝙡𝙖𝙞𝙢 𝙜𝙤𝙥𝙖𝙮 𝙠𝙚 𝙜𝙤𝙥𝙖𝙮, 𝙛𝙚𝙚 100𝙥",
-          "media": {
-            "type": "image",
-            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1768705436917.jpg"
-          }
-        },
-        "addedAt": "2026-01-18T03:03:59.099Z"
       },
       "penjelasan netflix": {
         "content": {
@@ -1405,6 +1395,16 @@
           "media": null
         },
         "updatedAt": "2026-01-28T08:02:00.923Z"
+      },
+      "payment": {
+        "content": {
+          "text": "𝙃𝘼𝙄𝙔𝙔.. 𝙄𝙉𝙄 𝙋𝘼𝙔𝙈𝙀𝙉𝙏 💳\n> Qris All Payment🎗\n\n\n💵🄳🄰🄽🄰: 082296976094\n💵🄶🄾🄿🄰🅈: 082296976094\n💵🅂🄷🄾🄿🄴🄴 🄿🄰🅈: 082296976094\n\n🗒🇳 🇴 🇹 🇪 🇸 \n- 𝙎𝙘𝙖𝙣 𝙌𝙧𝙞𝙨 𝙩𝙞𝙙𝙖𝙠 𝙙𝙞 𝙠𝙚𝙣𝙖𝙠𝙖𝙣 𝙛𝙚𝙚",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769589350592.jpg"
+          }
+        },
+        "addedAt": "2026-01-28T08:35:52.321Z"
       }
     }
   },
@@ -3555,7 +3555,7 @@
   },
   "120363421682836400@g.us": {
     "createdAt": "2026-01-28T08:10:10.742Z",
-    "updatedAt": "2026-01-28T08:34:45.655Z",
+    "updatedAt": "2026-01-28T08:30:54.566Z",
     "list": {
       "alightmotion": {
         "content": {
@@ -3885,13 +3885,6 @@
           "media": null
         },
         "addedAt": "2026-01-28T08:30:54.566Z"
-      },
-      "polar": {
-        "content": {
-          "text": " 💜 𝘗𝘖𝘓𝘈𝘙 𝘗𝘙𝘌𝘔𝘐𝘜𝘔 𝘗𝘙𝘐𝘊𝘌 𝘓𝘐𝘚𝘛 💜\n\n📊 Polar Premium\n• Polar Premium 1 Bulan — 8,5k\n• Polar Premium 1 Tahun — 12k\n\n📌 Keterangan Produk\n• Sistem sharing akun\n• Garansi 20 Hari\n• Support iOS & Android\n• Akun awet\n• 1 pembelian untuk 1 device\n\n📋 Keterangan Umum\n• 8–12 = 1 Tahun / 1Y\n• 25–30 = 1 Bulan\n• p = perak | k = ribuan\n• ⏳ Estimasi proses 1–15 menit\n\n💜 Terima kasih sudah melihat pricelist! 💜",
-          "media": null
-        },
-        "addedAt": "2026-01-28T08:34:45.655Z"
       }
     }
   }
