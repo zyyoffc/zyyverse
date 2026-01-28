@@ -3548,7 +3548,7 @@
   },
   "120363421682836400@g.us": {
     "createdAt": "2026-01-28T08:10:10.742Z",
-    "updatedAt": "2026-01-28T08:27:21.069Z",
+    "updatedAt": "2026-01-28T08:27:30.658Z",
     "list": {
       "alightmotion": {
         "content": {
@@ -3794,6 +3794,13 @@
           "media": null
         },
         "addedAt": "2026-01-28T08:27:21.069Z"
+      },
+      "penjelasan prem": {
+        "content": {
+          "text": " Penjelasan aplikasi premium dapat dilihat pada tautan berikut: https://padlet.com/odyssiaaa/PenjelasanPrem",
+          "media": null
+        },
+        "addedAt": "2026-01-28T08:27:30.658Z"
       }
     }
   }
