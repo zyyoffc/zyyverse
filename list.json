@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-28T11:36:06.998Z",
+    "updatedAt": "2026-01-28T11:40:49.078Z",
     "list": {
       "viu": {
         "content": {
@@ -420,6 +420,13 @@
           "media": null
         },
         "addedAt": "2026-01-28T11:36:06.997Z"
+      },
+      "cara order": {
+        "content": {
+          "text": " *CARA ORDER*\n\n- ketik list\n- ketik produk yang dicari, contoh : iqiyi\n- pilih sesuai kebutuhan\n- ketik payment/qris\n- transfer sesuai harga produk\n- kirim bukti tf di grup\n- lalu tunggu, orderan di proses oleh admin\n- jangan lupa ss login untuk dapatkan garansi",
+          "media": null
+        },
+        "addedAt": "2026-01-28T11:40:49.078Z"
       }
     }
   },
