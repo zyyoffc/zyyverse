@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-28T10:41:40.114Z",
+    "updatedAt": "2026-01-28T11:18:12.631Z",
     "list": {
       "viu": {
         "content": {
@@ -210,10 +210,10 @@
       },
       "bstation": {
         "content": {
-          "text": " *BSTATION* \n\n*SHARING :*\n- 1 bulan : 9.000\n- 6 bulan : 19.000\n- 1 tahun : 29.000\n\n*PRIVATE :*\n- 1 bulan : 35.000\n\nNote :\n- login 1 device\n- tanyakan stok",
+          "text": " *BSTATION* \n\n*SHARING :*\n- 1 bulan : 9.000\n- 3 bulan : 14.000\n- 6 bulan : 19.000\n- 1 tahun : 29.000\n\n*PRIVATE :*\n- 1 bulan : 35.000\n\nNote :\n- login 1 device\n- tanyakan stok",
           "media": null
         },
-        "addedAt": "2026-01-16T02:27:33.040Z"
+        "updatedAt": "2026-01-28T11:18:12.631Z"
       },
       "duolingo": {
         "content": {
