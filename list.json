@@ -3765,7 +3765,7 @@
   },
   "120363421682836400@g.us": {
     "createdAt": "2026-01-28T08:10:10.742Z",
-    "updatedAt": "2026-01-29T16:10:52.868Z",
+    "updatedAt": "2026-01-29T16:11:12.495Z",
     "list": {
       "alightmotion": {
         "content": {
@@ -4221,6 +4221,16 @@
           "media": null
         },
         "addedAt": "2026-01-28T09:10:39.260Z"
+      },
+      "pay": {
+        "content": {
+          "text": " 💜 METODE PEMBAYARAN — ODYSSIAVAULT 💜\nSilakan lakukan pembayaran sesuai pesanan yang dipilih.\nJangan lupa konfirmasi ke admin setelah transfer yaa 💌\nTerima kasih sudah mempercayai odyssiavault 💫\n\n💜🏦 Bank BCA\n• No. Rekening: 7402469202\n• Atas Nama: Farrel Andhika Pratama\n• Keterangan: odyssiavault\n\n💜📱 E-Wallet (DANA & GoPay)\n• Nomor: 0812-1171-3200\n• Atas Nama: Farrel Andhika Pratama\n• Keterangan: odyssiavault\n\n💜📝 Konfirmasi Pembayaran\nMohon kirim bukti pembayaran (screenshot) setelah transaksi berhasil yaa 💞",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769703070731.jpg"
+          }
+        },
+        "addedAt": "2026-01-29T16:11:12.495Z"
       }
     }
   }
