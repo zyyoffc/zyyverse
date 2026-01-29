@@ -2147,7 +2147,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-01-29T09:58:05.208Z",
+    "updatedAt": "2026-01-29T09:58:51.063Z",
     "list": {
       "adobe express": {
         "content": {
@@ -2582,16 +2582,6 @@
           "media": null
         },
         "addedAt": "2026-01-25T08:25:39.871Z"
-      },
-      "qris": {
-        "content": {
-          "text": "kirim bukti pay di group",
-          "media": {
-            "type": "image",
-            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769330919069.jpg"
-          }
-        },
-        "addedAt": "2026-01-25T08:48:40.809Z"
       },
       "am": {
         "content": {
