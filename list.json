@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-28T15:24:58.614Z",
+    "updatedAt": "2026-01-29T00:39:01.090Z",
     "list": {
       "viu": {
         "content": {
@@ -497,6 +497,13 @@
           "media": null
         },
         "addedAt": "2026-01-28T15:24:58.614Z"
+      },
+      "format kebsos": {
+        "content": {
+          "text": " | *FORMAT KEBSOS*\n\nnama :\nNo WA :\nOrder :\nTgl order :\nFoll/views/sv/like asal :\nLink :\n\nNote :\n- form wajib di isi\n- ga isi : nogar\n- akun tidak boleh di private\n- out gc : gar hangus",
+          "media": null
+        },
+        "addedAt": "2026-01-29T00:39:01.090Z"
       }
     }
   },
