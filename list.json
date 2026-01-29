@@ -1697,7 +1697,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-29T01:05:50.482Z",
+    "updatedAt": "2026-01-29T01:06:32.808Z",
     "list": {
       "apple music": {
         "content": {
@@ -2058,6 +2058,13 @@
           "media": null
         },
         "addedAt": "2026-01-29T01:04:54.316Z"
+      },
+      "chatgpt": {
+        "content": {
+          "text": "── .✦ *CHAT GPT*🍃\n๑┈•✦ *Sharing (8U)*\n⊹ 1 Bulan : 3.000\n\n๑┈•✦ *PRIVAT*\n⊹ 1 Bulan: 5.000\n⊹ Head : 14.000\n> login via veriv\n> Send Email",
+          "media": null
+        },
+        "addedAt": "2026-01-29T01:06:32.808Z"
       }
     }
   },
