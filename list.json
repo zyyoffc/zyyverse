@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-29T00:39:01.090Z",
+    "updatedAt": "2026-01-29T02:52:53.178Z",
     "list": {
       "viu": {
         "content": {
@@ -504,6 +504,13 @@
           "media": null
         },
         "addedAt": "2026-01-29T00:39:01.090Z"
+      },
+      "format capcut": {
+        "content": {
+          "text": " *FORMAT CAPCUT*\n\nnama :\nTgl order :\nDurasi :\nNo WA :\nGar : \n\nNote :\n- wajib di isi\n- ga di isi : nogar\n- out gc : gar hangus",
+          "media": null
+        },
+        "addedAt": "2026-01-29T02:52:53.178Z"
       }
     }
   },
