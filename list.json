@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-29T09:32:42.651Z",
+    "updatedAt": "2026-01-29T12:27:45.720Z",
     "list": {
       "viu": {
         "content": {
@@ -567,6 +567,13 @@
           "media": null
         },
         "addedAt": "2026-01-29T09:32:42.651Z"
+      },
+      "format viu": {
+        "content": {
+          "text": " *FORMAT VIU*\n\nnama :\nTgl order :\nOrder :\nEmail :\nPasword :\n\n- kirim di chat pribadi",
+          "media": null
+        },
+        "addedAt": "2026-01-29T12:27:45.720Z"
       }
     }
   },
