@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-30T04:47:42.742Z",
+    "updatedAt": "2026-01-30T04:50:48.735Z",
     "list": {
       "viu": {
         "content": {
@@ -567,6 +567,13 @@
           "media": null
         },
         "addedAt": "2026-01-30T04:47:42.742Z"
+      },
+      "yt music": {
+        "content": {
+          "text": " *YOUTUBE MUSIC*\n\n- 1 bulan : 8.000\n\nNote :\n- fullgar\n- proses max 1x24 jam",
+          "media": null
+        },
+        "addedAt": "2026-01-30T04:50:48.735Z"
       }
     }
   },
