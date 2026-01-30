@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-30T04:38:41.706Z",
+    "updatedAt": "2026-01-30T04:47:42.742Z",
     "list": {
       "viu": {
         "content": {
@@ -560,6 +560,13 @@
           "media": null
         },
         "addedAt": "2026-01-29T12:27:45.720Z"
+      },
+      "spotify": {
+        "content": {
+          "text": " *SPOTIFY PREMIUM*\n\n*INDPLAN :*\n- 1 bulan : 25.000 (fullgar) \n- 1 bulan : 15.000 (nogar) \n- 3 bulan : 35.000 (fullgar) \n- 3 bulan : 30.000 (nogar)\n\n*FAMPLAN :*\n- 1 bulan : 20.000 (fullgar) \n- 1 bulan : 15.000 (nogar) \n- 2 bulan : 30.000 (fullgar) \n- 2 bulan : 25.000 (nogar)",
+          "media": null
+        },
+        "addedAt": "2026-01-30T04:47:42.742Z"
       }
     }
   },
