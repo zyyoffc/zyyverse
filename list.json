@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-30T04:50:48.735Z",
+    "updatedAt": "2026-01-30T11:06:21.728Z",
     "list": {
       "viu": {
         "content": {
@@ -574,6 +574,13 @@
           "media": null
         },
         "addedAt": "2026-01-30T04:50:48.735Z"
+      },
+      "ifake": {
+        "content": {
+          "text": " *IFAKE*\n\n- lifetime (ios) : 20.000(gar6b) \n- lifetime (ios) : 25.000(fullgar)",
+          "media": null
+        },
+        "addedAt": "2026-01-30T11:06:21.728Z"
       }
     }
   },
