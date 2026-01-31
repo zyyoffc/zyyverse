@@ -1871,7 +1871,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-01-31T13:50:07.488Z",
+    "updatedAt": "2026-01-31T13:52:17.219Z",
     "list": {
       "apple music": {
         "content": {
@@ -2253,6 +2253,13 @@
           "media": null
         },
         "addedAt": "2026-01-31T13:50:07.488Z"
+      },
+      "garansi": {
+        "content": {
+          "text": "format klaim full garansi.\n   • nama aplikasi : \n   • email : \n   • no wa / usn tele: \n   • device & lokasi login : \n\nkirim ke -> admin\nnote : screenshoot bagian  login  (no crop atau no garansi) tidak isi lebih dari 12 jam setelah akun didrop maka no garansi!",
+          "media": null
+        },
+        "addedAt": "2026-01-31T13:52:17.219Z"
       }
     }
   },
