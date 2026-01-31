@@ -4604,7 +4604,7 @@
   },
   "120363424120510114@g.us": {
     "createdAt": "2026-01-31T07:29:13.244Z",
-    "updatedAt": "2026-01-31T08:06:49.371Z",
+    "updatedAt": "2026-01-31T08:10:43.575Z",
     "list": {
       "list": {
         "content": {
@@ -4619,6 +4619,16 @@
           "media": null
         },
         "addedAt": "2026-01-31T08:06:49.371Z"
+      },
+      "pay": {
+        "content": {
+          "text": "⋆ ˚｡⋆୨୧˚ 𝗽𝗮𝘆𝗺𝗲𝗻𝘁 𓍼 ⋆｡˚ ⋆ \n\n🥨 dana \n⤿ 085210318896 \n\n🍰 gopay\n⤿ 083114339995 \n______________________________________\n— *note payment*! ֵ💬💌\n⤿ wajib kirim ss tf + sebutkan nama produk\n⤿ qris all payment\n    \"𝓱𝓪𝓹𝓹𝔂 𝓼𝓱𝓸𝓹𝓹𝓲𝓷𝓰 𝓪𝓵𝓵\"",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769847042179.jpg"
+          }
+        },
+        "addedAt": "2026-01-31T08:10:43.575Z"
       }
     }
   }
