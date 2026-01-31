@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-31T03:18:48.217Z",
+    "updatedAt": "2026-01-31T07:24:06.026Z",
     "list": {
       "viu": {
         "content": {
@@ -595,6 +595,16 @@
           "media": null
         },
         "addedAt": "2026-01-31T00:30:24.457Z"
+      },
+      "sewabot fun": {
+        "content": {
+          "text": " *BOT HAVE FUN, FITUR 1000+++*\n\nOrder : 08137277066",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769844244482.jpg"
+          }
+        },
+        "addedAt": "2026-01-31T07:24:06.026Z"
       }
     }
   },
