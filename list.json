@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-01-31T14:06:36.280Z",
+    "updatedAt": "2026-01-31T15:57:14.163Z",
     "list": {
       "viu": {
         "content": {
@@ -605,6 +605,13 @@
           }
         },
         "addedAt": "2026-01-31T07:24:06.026Z"
+      },
+      "penjelasan netflix": {
+        "content": {
+          "text": " *PENJELASAN NETFLIX*\n\n```1p1u```\n> jika 4 orang nonton di waktu secara bersamaan, 1 orang akan terkena limitscreen dan harus menunggu salah satu dari 4 orang tersebut selesai menonton \n\n```1p2u```\n> jika 4 orang nonton di waktu secara bersamaan, 6 orang akan terkena limitscreen dan harus menunggu salah satu dari 4 orang tersebut selesai menonton \n\n```semi private```\n> sama kaya 1p1u bedanya bisa log dengan 2 device ( hp & tv ) \n\n```anti limit```\n> di dalam 1 akun hanya ada 4 orang dan masing masing hanya bisa log 1 device, jadi saat menonton tidak akan terjadi limitscreen",
+          "media": null
+        },
+        "addedAt": "2026-01-31T15:57:14.163Z"
       }
     }
   },
