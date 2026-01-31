@@ -4604,7 +4604,7 @@
   },
   "120363424120510114@g.us": {
     "createdAt": "2026-01-31T07:29:13.244Z",
-    "updatedAt": "2026-01-31T07:48:38.369Z",
+    "updatedAt": "2026-01-31T08:06:49.371Z",
     "list": {
       "list": {
         "content": {
@@ -4612,6 +4612,13 @@
           "media": null
         },
         "updatedAt": "2026-01-31T07:48:38.368Z"
+      },
+      "format": {
+        "content": {
+          "text": "ʕ •ᴥ• ʔ *_FORMAT MONITOR_* ʕ •ᴥ• ʔ  \n\nNama Aplikasi 🌷 : \nTanggal Order 📅 : \nDurasi ⏰ : \nMerk Device 📱:\nLokasi📍:\nPlan ⭐ : \n\n૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა  Semangat monitoring~",
+          "media": null
+        },
+        "addedAt": "2026-01-31T08:06:49.371Z"
       }
     }
   }
