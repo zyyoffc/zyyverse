@@ -4774,7 +4774,7 @@
   },
   "120363402927093903@g.us": {
     "createdAt": "2026-02-01T15:40:45.222Z",
-    "updatedAt": "2026-02-01T15:40:45.222Z",
+    "updatedAt": "2026-02-01T15:41:41.425Z",
     "list": {
       "top up koin tik tok": {
         "content": {
@@ -4785,6 +4785,16 @@
           }
         },
         "addedAt": "2026-02-01T15:40:45.222Z"
+      },
+      "top up flex city": {
+        "content": {
+          "text": "TOP UP FLEX CITY",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769960499831.jpg"
+          }
+        },
+        "addedAt": "2026-02-01T15:41:41.425Z"
       }
     }
   }
