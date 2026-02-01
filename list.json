@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-01T03:48:22.809Z",
+    "updatedAt": "2026-02-01T03:50:21.364Z",
     "list": {
       "viu": {
         "content": {
@@ -612,6 +612,13 @@
           "media": null
         },
         "addedAt": "2026-02-01T03:48:22.809Z"
+      },
+      "vision+sport": {
+        "content": {
+          "text": " *VISION+SPORT*\n\n*SHARING :*\n- 1 bulan : 17.000\n\n*PRIVATE :*\n- 1 bulan : 30.000",
+          "media": null
+        },
+        "addedAt": "2026-02-01T03:50:21.363Z"
       }
     }
   },
