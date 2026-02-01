@@ -4771,5 +4771,21 @@
         "addedAt": "2026-02-01T03:50:42.775Z"
       }
     }
+  },
+  "120363402927093903@g.us": {
+    "createdAt": "2026-02-01T15:40:45.222Z",
+    "updatedAt": "2026-02-01T15:40:45.222Z",
+    "list": {
+      "top up koin tik tok": {
+        "content": {
+          "text": " top up koin tik tok",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769960443926.jpg"
+          }
+        },
+        "addedAt": "2026-02-01T15:40:45.222Z"
+      }
+    }
   }
 }
