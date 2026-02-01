@@ -4774,7 +4774,7 @@
   },
   "120363402927093903@g.us": {
     "createdAt": "2026-02-01T15:40:45.222Z",
-    "updatedAt": "2026-02-01T15:49:18.670Z",
+    "updatedAt": "2026-02-01T15:53:11.749Z",
     "list": {
       "top up koin tik tok": {
         "content": {
@@ -4815,6 +4815,16 @@
           }
         },
         "addedAt": "2026-02-01T15:49:18.669Z"
+      },
+      "top up ml": {
+        "content": {
+          "text": " top up ml\n\n100 Diamond Mobile Legend RP : 29.000\n\n172 (156+16) Diamond Mobile Legend RP :47.000\n\n222 (200+22) Diamond Mobile Legend RP:61.000\n\n278 (251+27) Diamond Mobile Legend RP:80.000\n\n408 (367+41) Diamond Mobile Legend RP: 111.000\n\n522 (471+51) Diamond Mobile Legend RP:141.000\n\n601 (533+68) Diamond Mobile Legend RP: 160.000\n\n875 (774+101) Diamond Mobile Legend RP:225.000\n\n1220 (1159+61) Diamond Mobile Legend RP:325.000\n\n1704 (1509+195) Diamond Mobile Legend RP: 445.000\n\n2195 (1860+335) Diamond Mobile Legend RP: 545.000\n\n4020 (3416+604) Diamond Mobile Legend RP:1.000.000",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1769961189471.jpg"
+          }
+        },
+        "addedAt": "2026-02-01T15:53:11.749Z"
       }
     }
   }
