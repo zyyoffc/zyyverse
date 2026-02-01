@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-01T03:09:44.682Z",
+    "updatedAt": "2026-02-01T03:48:22.809Z",
     "list": {
       "viu": {
         "content": {
@@ -605,6 +605,13 @@
           "media": null
         },
         "addedAt": "2026-02-01T03:09:44.682Z"
+      },
+      "prime video": {
+        "content": {
+          "text": " *PRIME VIDEO*\n\n*SHARING :*\n- 1 bulan : 9.000\n\n*PRIVATE :*\n- 1 bulan : 22.000",
+          "media": null
+        },
+        "addedAt": "2026-02-01T03:48:22.809Z"
       }
     }
   },
