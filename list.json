@@ -4774,7 +4774,7 @@
   },
   "120363402927093903@g.us": {
     "createdAt": "2026-02-01T15:40:45.222Z",
-    "updatedAt": "2026-02-01T16:01:27.126Z",
+    "updatedAt": "2026-02-01T16:10:14.733Z",
     "list": {
       "top up koin tik tok": {
         "content": {
@@ -4835,6 +4835,13 @@
           }
         },
         "addedAt": "2026-02-01T16:01:27.126Z"
+      },
+      "format top up": {
+        "content": {
+          "text": " FORMAT TOP UP\n\nNICKNAME :\nID : \nTOTAL TOP UP",
+          "media": null
+        },
+        "addedAt": "2026-02-01T16:10:14.732Z"
       }
     }
   }
