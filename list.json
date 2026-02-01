@@ -1207,7 +1207,7 @@
   },
   "120363422381262394@g.us": {
     "createdAt": "2026-01-16T10:59:39.902Z",
-    "updatedAt": "2026-02-01T03:36:40.903Z",
+    "updatedAt": "2026-02-01T03:36:58.279Z",
     "list": {
       "bimbingan cara kerja reseller": {
         "content": {
@@ -1712,13 +1712,6 @@
           "media": null
         },
         "updatedAt": "2026-02-01T00:46:48.810Z"
-      },
-      "duolingo": {
-        "content": {
-          "text": "1 tahun: 1l",
-          "media": null
-        },
-        "addedAt": "2026-02-01T03:36:40.903Z"
       }
     }
   },
