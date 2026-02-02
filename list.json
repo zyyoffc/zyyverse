@@ -4781,7 +4781,7 @@
   },
   "120363402927093903@g.us": {
     "createdAt": "2026-02-01T15:40:45.222Z",
-    "updatedAt": "2026-02-02T08:24:37.715Z",
+    "updatedAt": "2026-02-02T08:31:34.057Z",
     "list": {
       "top up koin tik tok": {
         "content": {
@@ -4879,6 +4879,16 @@
           }
         },
         "addedAt": "2026-02-02T08:24:37.715Z"
+      },
+      "top up pubg": {
+        "content": {
+          "text": " top up pubg \n\nPUBG Mobile 150 UC RP : 48.000\nPUBG Mobile 300 UC RP : 78.000\nPUBG Mobile 500 UC RP : 135.000\nPUBG Mobile 750 UC RP : 180.000\nPUBG Mobile 1000 UC RP : 250.000 \nPUBG Mobile 1500 UC\nRP : 360.000\nPUBG Mobile 2500 UC\nRP : 560.000\nElite Pass Plus + Kupon Peti Klasik RP : 440.000",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1770021092287.jpg"
+          }
+        },
+        "addedAt": "2026-02-02T08:31:34.057Z"
       }
     }
   }
