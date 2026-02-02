@@ -1207,7 +1207,7 @@
   },
   "120363422381262394@g.us": {
     "createdAt": "2026-01-16T10:59:39.902Z",
-    "updatedAt": "2026-02-02T04:20:58.661Z",
+    "updatedAt": "2026-02-02T04:21:39.019Z",
     "list": {
       "bimbingan cara kerja reseller": {
         "content": {
@@ -1726,6 +1726,13 @@
           "media": null
         },
         "addedAt": "2026-02-02T01:26:12.947Z"
+      },
+      "saluran tutor login apk": {
+        "content": {
+          "text": "https://whatsapp.com/channel/0029VbBszol3mFYEQla6yx28",
+          "media": null
+        },
+        "addedAt": "2026-02-02T04:21:39.019Z"
       }
     }
   },
