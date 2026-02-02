@@ -4781,7 +4781,7 @@
   },
   "120363402927093903@g.us": {
     "createdAt": "2026-02-01T15:40:45.222Z",
-    "updatedAt": "2026-02-02T10:28:29.513Z",
+    "updatedAt": "2026-02-02T10:58:19.126Z",
     "list": {
       "top up koin tik tok": {
         "content": {
@@ -4889,6 +4889,16 @@
           }
         },
         "addedAt": "2026-02-02T10:28:29.513Z"
+      },
+      "qris": {
+        "content": {
+          "text": " qris",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1770029897508.jpg"
+          }
+        },
+        "addedAt": "2026-02-02T10:58:19.126Z"
       }
     }
   }
