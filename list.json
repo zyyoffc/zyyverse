@@ -4781,7 +4781,7 @@
   },
   "120363402927093903@g.us": {
     "createdAt": "2026-02-01T15:40:45.222Z",
-    "updatedAt": "2026-02-02T08:16:14.902Z",
+    "updatedAt": "2026-02-02T08:24:37.715Z",
     "list": {
       "top up koin tik tok": {
         "content": {
@@ -4869,6 +4869,16 @@
           }
         },
         "addedAt": "2026-02-02T08:16:14.902Z"
+      },
+      "top up stumble gusy": {
+        "content": {
+          "text": "  top up stumble gusy\n\nStumble Guys 250 Gems RP :16.000\nStumble Guys 800 Gems RP : 40.000\nStumble Guys 120 Tokens RP : 47.000\nStumble Guys 1.600 Gems dan 75 Tokens RP : 68.000\nStumble Guys 5.000 Gems dan 275 Tokens RP : 150.000\nStumble Guys 1.300 Tokens RP : 360.000",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1770020675589.jpg"
+          }
+        },
+        "addedAt": "2026-02-02T08:24:37.715Z"
       }
     }
   }
