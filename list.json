@@ -4781,7 +4781,7 @@
   },
   "120363402927093903@g.us": {
     "createdAt": "2026-02-01T15:40:45.222Z",
-    "updatedAt": "2026-02-02T08:01:03.247Z",
+    "updatedAt": "2026-02-02T08:16:14.902Z",
     "list": {
       "top up koin tik tok": {
         "content": {
@@ -4859,6 +4859,16 @@
           }
         },
         "addedAt": "2026-02-02T08:01:03.247Z"
+      },
+      "top up supersus": {
+        "content": {
+          "text": " top up supersus \n\n100 GOLDSTAR RP : 18.000\n310 GOLDSTAR RP : 43.000\n520 GOLDSTAR RP : 75.000",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1770020173250.jpg"
+          }
+        },
+        "addedAt": "2026-02-02T08:16:14.902Z"
       }
     }
   }
