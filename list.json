@@ -1899,7 +1899,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-02-02T12:14:23.630Z",
+    "updatedAt": "2026-02-03T02:20:39.068Z",
     "list": {
       "apple music": {
         "content": {
@@ -2288,6 +2288,13 @@
           "media": null
         },
         "addedAt": "2026-02-02T12:14:23.630Z"
+      },
+      "cek turnitin": {
+        "content": {
+          "text": "── .✦ *Cek Turnitin*🍃\n๑┈•✦♧ \n⊹ 1× cek: 3.000\n⊹ 2× cek: 5.000\n⊹ 3× cek: 8.000\n> Ukuran file yang diunggah kurang dari 100mb\n> Proses kurang lebih 1 jam\n> Berkas harus berisi lebih dari 20 kata Agar laporan kemiripan kata terbaca \n> Setiap 1 orang maks pengecekan 3 kali",
+          "media": null
+        },
+        "addedAt": "2026-02-03T02:20:39.068Z"
       }
     }
   },
