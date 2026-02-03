@@ -1899,7 +1899,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-02-03T03:08:52.714Z",
+    "updatedAt": "2026-02-03T03:19:36.333Z",
     "list": {
       "apple music": {
         "content": {
@@ -2302,6 +2302,13 @@
           "media": null
         },
         "addedAt": "2026-02-03T03:08:52.714Z"
+      },
+      "viki": {
+        "content": {
+          "text": "── .✦ *VIKI*🍃\n๑┈•✦♧ *SHARING*\n⊹ 1 Bulan: 6.000\n> Gar= patuhi SnK!",
+          "media": null
+        },
+        "addedAt": "2026-02-03T03:19:36.332Z"
       }
     }
   },
