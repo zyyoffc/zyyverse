@@ -4830,7 +4830,7 @@
   },
   "120363402927093903@g.us": {
     "createdAt": "2026-02-01T15:40:45.222Z",
-    "updatedAt": "2026-02-02T10:58:19.126Z",
+    "updatedAt": "2026-02-03T14:48:58.128Z",
     "list": {
       "top up koin tik tok": {
         "content": {
@@ -4948,6 +4948,16 @@
           }
         },
         "addedAt": "2026-02-02T10:58:19.126Z"
+      },
+      "bucks flex city": {
+        "content": {
+          "text": " Bucks flex city",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1770130133155.jpg"
+          }
+        },
+        "addedAt": "2026-02-03T14:48:58.128Z"
       }
     }
   }
