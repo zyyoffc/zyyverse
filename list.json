@@ -4990,7 +4990,7 @@
   },
   "120363260476932751@g.us": {
     "createdAt": "2026-02-04T05:49:40.034Z",
-    "updatedAt": "2026-02-04T05:49:40.034Z",
+    "updatedAt": "2026-02-04T05:50:18.151Z",
     "list": {
       "spotify": {
         "content": {
@@ -4998,6 +4998,13 @@
           "media": null
         },
         "addedAt": "2026-02-04T05:49:40.034Z"
+      },
+      "format uc": {
+        "content": {
+          "text": "*FORMAT ORDER UC*\n\n⇨ID : \n⇨NICK : \n⇨ORDER : \n⇨SISA UC : \n⇨REGION :",
+          "media": null
+        },
+        "addedAt": "2026-02-04T05:50:18.151Z"
       }
     }
   }
