@@ -4514,7 +4514,7 @@
   },
   "120363423988029428@g.us": {
     "createdAt": "2026-01-30T11:17:41.381Z",
-    "updatedAt": "2026-01-30T12:54:32.715Z",
+    "updatedAt": "2026-02-06T10:53:28.751Z",
     "list": {
       "list": {
         "content": {
@@ -4704,6 +4704,16 @@
           "media": null
         },
         "addedAt": "2026-01-30T12:54:32.715Z"
+      },
+      "payment": {
+        "content": {
+          "text": " .𖥔 ݁ ˖ *capstored store payment*  .𖥔 ݁ ˖𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃\n\n*qris for all payment*\n📍  𝗱𝗮𝗻𝗮 *081367831143*\n📍*gopay 081367831143* \n📍*Shopeepay 081367831143*\n\n╭─  𝗿𝘂𝗹𝗲𝘀 𝘁𝗿𝗮𝗻𝘀𝗳𝗲𝗿  ─╮  \n● setelah transfer, wajib kirim ss payment di grup  \n● ss bukti transfer tidak boleh diedit atau dipotong  \n╰───────────────╯  \n\nthankyou for ordering at *CAPSTORED STORE*",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1770375207194.jpg"
+          }
+        },
+        "addedAt": "2026-02-06T10:53:28.750Z"
       }
     }
   },
