@@ -2321,7 +2321,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-02-05T19:15:47.440Z",
+    "updatedAt": "2026-02-06T00:40:43.030Z",
     "list": {
       "adobe express": {
         "content": {
@@ -2797,10 +2797,10 @@
       },
       "format garansi": {
         "content": {
-          "text": "   *form garansi other* \n\n─ ♧ nomor wa : \n─ ¤ aplikasi : \n─ ♤ tanggal order : \n─ ◇ email : \n─ ♧ password : \n─ ♡ plan: \n─ ◇ prof : \n─ ♡ durasi pembelian : \n─ ◇ tanggal problem : \n─ ♧ problem : \n\n*wajib disertai dengan ss problem dalam satu bubble chat*\n\n ★note !\n▪︎ apabila format tidak lengkap, garansi tidak di proses\n▪︎ tidak mematuhi snk = void waranty \n▪︎ estimasi garansi 3x24 jam\n▪︎ no spam apabila belum lewat estimasi!\n▪︎ spam dan gasabaran? aku skip",
+          "text": " *form garansi other* \n\nnomor :\nemail :\nplan :\ntanggal problem:\ntanggal order:\n\n\n\n*wajib disertai dengan ss problem dalam satu bubble chat*\n\n ★note !\n▪︎ apabila format tidak lengkap, garansi tidak di proses\n▪︎ tidak mematuhi snk = void waranty \n▪︎ estimasi garansi 3x24 jam\n▪︎ no spam apabila belum lewat estimasi!\n▪︎ spam dan gasabaran? aku skip",
           "media": null
         },
-        "addedAt": "2026-02-02T03:50:27.377Z"
+        "updatedAt": "2026-02-06T00:40:43.030Z"
       }
     }
   },
