@@ -31,7 +31,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-07T08:21:00.036Z",
+    "updatedAt": "2026-02-07T08:23:43.860Z",
     "list": {
       "viu": {
         "content": {
@@ -605,6 +605,13 @@
           "media": null
         },
         "addedAt": "2026-02-07T07:59:50.768Z"
+      },
+      "tips netflix incor": {
+        "content": {
+          "text": " jika akun netflix di seller bisa login tapi di buyer tidak bisa, lakukan tips ini, wajar terkadang akun netflix black market suka bermasalah seperti ini: \n\nuntuk device hp : \n1. clear data dan cache.\n2. reinstall aplikasi atau restart hp.\n3. ganti jaringan dari wifi ke data seluler atau sebaliknya. \n4. masuk lewat chrome, login ke mode samaran, masukan link ini netflix.com/clearcookies, lalu coba login di web.\n\ndevice laptop : \n1. login lewat web jangan aplikasi\n2. clear cookies di netflix.com/clearcookies\n3. pindah ke mode samaran atau mode incognito. \n4. clear history laptop.\n5. pas mau klik \"login/masuk\" klik 2x secara bersamaan. \n6. ikuti cara yang sama seperti no 4 di HP.\n\nuntuk device tv:\n1. keluar dulu dari akunnya. \n2. restart router tv-nya. \n3. marikan dulu tv-nya.\n4. reset factory tvnya.\n\nnote : tidak ada replace atau reffund apapun jika di buyer tidak bisa login namun di seller bisa. karena itu normal terjadi di beberapa device, dan permasalahan ada di device buyer, bukan di akunnya.",
+          "media": null
+        },
+        "addedAt": "2026-02-07T08:23:43.860Z"
       }
     }
   },
