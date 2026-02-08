@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-08T11:58:42.614Z",
+    "updatedAt": "2026-02-08T14:35:52.870Z",
     "list": {
       "viu": {
         "content": {
@@ -633,6 +633,16 @@
           "media": null
         },
         "addedAt": "2026-02-08T07:51:16.972Z"
+      },
+      "pay": {
+        "content": {
+          "text": "  *PAYMENT :*\n\nDana : 082352563646\nShopeePay : 081361125868\nGoPay : 081361125868\nOvo : 081361125868\nSeaBank : 901756905626\nPulsa : 082352563646\n\nA/n W***A A*****T Z*****A\n\nnote :\n- no fee\n- bukti tf kirim ke GC\n- proses 1x24 jam\n- salah kirim bukan tj admin",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1770561351317.jpg"
+          }
+        },
+        "addedAt": "2026-02-08T14:35:52.870Z"
       }
     }
   },
