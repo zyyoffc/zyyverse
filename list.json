@@ -1951,7 +1951,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-02-08T09:18:20.064Z",
+    "updatedAt": "2026-02-09T14:00:32.563Z",
     "list": {
       "apple music": {
         "content": {
@@ -2361,6 +2361,13 @@
           "media": null
         },
         "addedAt": "2026-02-08T09:18:20.064Z"
+      },
+      "rumus reffund": {
+        "content": {
+          "text": "*Rumus Reffund*\n━━━━━━━━━━━━━━━━━━━━━━━━\nHarga beli × sisa durasi ÷ total durasi premium × Service Fee = *Total Reffund*\n\n*‼️Ketentuan Service Fee*\n➣ 0,8 = Pemakaian kurang dari seminggu \n➣ 0,7 = Belum pernah claim garansi tapi udh lebih dari seminggu \n➣ 0,6 = Sudah pernah claim garansi 1x-2x\n➣ 0,5 = Sudah pernah claim garansi 3x\n➣ 0,4 = Sudah pernah claim garansi lebih dari 3x \n━━━━━━━━━━━━━━━━━━━━━━━━\nContoh : 8.000 x 24 ÷ 30 x 0,8 = *5.120*",
+          "media": null
+        },
+        "addedAt": "2026-02-09T14:00:32.563Z"
       }
     }
   },
