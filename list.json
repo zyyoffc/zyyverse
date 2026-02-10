@@ -4077,7 +4077,7 @@
   },
   "120363421682836400@g.us": {
     "createdAt": "2026-01-28T08:10:10.742Z",
-    "updatedAt": "2026-02-10T18:01:25.534Z",
+    "updatedAt": "2026-02-10T18:11:54.909Z",
     "list": {
       "alightmotion": {
         "content": {
@@ -4613,6 +4613,13 @@
           "media": null
         },
         "addedAt": "2026-02-08T12:32:32.060Z"
+      },
+      "grok ai": {
+        "content": {
+          "text": " 💜 *GROK AI PRICE LIST* 💜\n\n🤖 *Pilihan Paket Grok AI Premium:*\n• Grok AI Premium 1 Minggu — 6,5k\n• Grok AI Premium 1 Bulan — 23k\n\n📝 *Keterangan Produk:*\n• Akses Grok AI Premium\n• Cocok untuk tanya jawab cepat\n• Membantu ide, riset, kerja & belajar\n• Proses cepat, langsung pakai\n\n📋 *Keterangan Umum:*\n• 8–12 = 1 Tahun / 1Y\n• 25–30 = 1 Bulan\n• p = perak | k = ribuan\n• ⏳ Proses ± 1–15 menit\n\n💜 *Terima kasih sudah cek pricelist, kak!* 💜",
+          "media": null
+        },
+        "addedAt": "2026-02-10T18:11:54.908Z"
       }
     }
   },
