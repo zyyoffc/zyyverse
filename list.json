@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-13T17:51:54.120Z",
+    "updatedAt": "2026-02-13T17:52:12.568Z",
     "list": {
       "viu": {
         "content": {
@@ -713,6 +713,13 @@
           "media": null
         },
         "addedAt": "2026-02-13T09:07:30.146Z"
+      },
+      "f": {
+        "content": {
+          "text": " .addlist format order | *FORMAT ORDER*\n\nNama cust :\nNama apk:\nDurasi :\nTgl order :\nPlan std/priv :\n\n*WAJIB DI ISI, GA DI ISI : NOGAR*",
+          "media": null
+        },
+        "addedAt": "2026-02-13T17:52:12.568Z"
       }
     }
   },
