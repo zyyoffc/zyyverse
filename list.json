@@ -2439,7 +2439,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-02-13T11:51:11.423Z",
+    "updatedAt": "2026-02-13T12:04:28.767Z",
     "list": {
       "adobe express": {
         "content": {
@@ -2926,6 +2926,13 @@
           "media": null
         },
         "updatedAt": "2026-02-08T21:19:06.477Z"
+      },
+      "wdp": {
+        "content": {
+          "text": " *_WEEKLY DIAMOND PASS ML_*\n\nVIA ID + SERVER : 33k",
+          "media": null
+        },
+        "addedAt": "2026-02-13T12:04:28.767Z"
       }
     }
   },
