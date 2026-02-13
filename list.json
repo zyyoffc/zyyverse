@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-13T07:26:54.911Z",
+    "updatedAt": "2026-02-13T09:07:30.146Z",
     "list": {
       "viu": {
         "content": {
@@ -706,6 +706,13 @@
           "media": null
         },
         "addedAt": "2026-02-12T12:29:48.016Z"
+      },
+      "promo": {
+        "content": {
+          "text": " *PROMO JUM'AT*\n\n- CAPCUT PRIVAT 7 HARI 1.000P\n- IQIYI PREMIUM 3 MINGGU 3.000\n- YOUTUBE FAMPLAN 2 MINGGU 500P\n- YOUKU 1 BLN 5.000\n- CANVA MEMBER 1 BLN 50P",
+          "media": null
+        },
+        "addedAt": "2026-02-13T09:07:30.146Z"
       }
     }
   },
