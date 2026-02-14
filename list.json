@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-13T17:52:39.515Z",
+    "updatedAt": "2026-02-14T02:56:05.849Z",
     "list": {
       "viu": {
         "content": {
@@ -716,10 +716,10 @@
       },
       "f": {
         "content": {
-          "text": " *FORMAT ORDER*\n\nNama cust :\nNama apk:\nDurasi :\nTgl order :\nPlan std/priv :\n\n*WAJIB DI ISI, GA DI ISI : NOGAR*",
+          "text": " *FORMAT ORDER*\n\nNama cust :\nNama apk:\nDurasi :\nTgl order :\nPlan shar/priv :\n\n*WAJIB DI ISI, GA DI ISI : NOGAR*\n\nNote :\n- matikan pesan sementara di chat pribadi\n- ga matikan? Apk fullgar jika akun kenapa2 jadi nogar",
           "media": null
         },
-        "addedAt": "2026-02-13T17:52:39.515Z"
+        "updatedAt": "2026-02-14T02:56:05.849Z"
       }
     }
   },
