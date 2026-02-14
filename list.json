@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-14T10:06:22.553Z",
+    "updatedAt": "2026-02-14T12:01:10.451Z",
     "list": {
       "viu": {
         "content": {
@@ -734,6 +734,16 @@
           "media": null
         },
         "addedAt": "2026-02-14T10:06:22.553Z"
+      },
+      "penjelasan chatgpt": {
+        "content": {
+          "text": " sebelum order chatgpt tanya2 dulu ya",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1771070468873.jpg"
+          }
+        },
+        "addedAt": "2026-02-14T12:01:10.451Z"
       }
     }
   },
