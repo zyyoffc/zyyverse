@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-14T06:41:05.536Z",
+    "updatedAt": "2026-02-14T10:06:22.553Z",
     "list": {
       "viu": {
         "content": {
@@ -727,6 +727,13 @@
           "media": null
         },
         "addedAt": "2026-02-14T06:41:05.536Z"
+      },
+      "testimoni": {
+        "content": {
+          "text": " *TESTIMONI ALETHEIA STORE*\n\n*CHANNEL TELEGRAM*\nhttps://t.me/testimonialetheiastore",
+          "media": null
+        },
+        "addedAt": "2026-02-14T10:06:22.553Z"
       }
     }
   },
