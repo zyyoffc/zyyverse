@@ -2045,7 +2045,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-02-15T03:14:20.613Z",
+    "updatedAt": "2026-02-15T03:19:14.667Z",
     "list": {
       "apple music": {
         "content": {
@@ -2458,6 +2458,13 @@
           "media": null
         },
         "addedAt": "2026-02-15T03:14:20.613Z"
+      },
+      "hbo max": {
+        "content": {
+          "text": "── .✦ *HBO MAX*🍃\n๑┈•✦♧ *SHARING*\n⊹ Standar 1 Bulan : 9.000\n⊹  HBO MAX Ultimate: 12.000\n> Ultimate bisa TV\n> Gar: Patuhi SnK!",
+          "media": null
+        },
+        "addedAt": "2026-02-15T03:19:14.667Z"
       }
     }
   },
