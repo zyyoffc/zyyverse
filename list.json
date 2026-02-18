@@ -2052,7 +2052,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-02-15T09:37:00.223Z",
+    "updatedAt": "2026-02-18T10:14:03.570Z",
     "list": {
       "apple music": {
         "content": {
@@ -2472,6 +2472,13 @@
           "media": null
         },
         "addedAt": "2026-02-15T09:37:00.223Z"
+      },
+      "rcti": {
+        "content": {
+          "text": "── .✦ *RCTI*🍃\n๑┈•✦♧ \n⊹ Rcti prem 1B: 14.500\n⊹ Rcti Sport 1B: 21.000",
+          "media": null
+        },
+        "addedAt": "2026-02-18T10:14:03.570Z"
       }
     }
   },
