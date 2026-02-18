@@ -5245,7 +5245,7 @@
   },
   "120363419104331957@g.us": {
     "createdAt": "2026-02-18T09:22:31.761Z",
-    "updatedAt": "2026-02-18T21:53:06.157Z",
+    "updatedAt": "2026-02-18T21:54:37.165Z",
     "list": {
       "am": {
         "content": {
@@ -5372,6 +5372,13 @@
           "media": null
         },
         "addedAt": "2026-02-18T21:53:06.156Z"
+      },
+      "format garansi": {
+        "content": {
+          "text": " *form garansi other* \n\nnomor :\nemail :\nplan :\ntanggal problem:\ntanggal order:\n\n\n\n*wajib disertai dengan ss problem dalam satu bubble chat*\n\n ★note !\n▪︎ apabila format tidak lengkap, garansi tidak di proses\n▪︎ tidak mematuhi snk = void waranty \n▪︎ estimasi garansi 3x24 jam\n▪︎ no spam apabila belum lewat estimasi!\n▪︎ spam dan gasabaran? aku skip",
+          "media": null
+        },
+        "addedAt": "2026-02-18T21:54:37.165Z"
       }
     }
   }
