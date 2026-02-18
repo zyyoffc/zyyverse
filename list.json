@@ -5245,7 +5245,7 @@
   },
   "120363419104331957@g.us": {
     "createdAt": "2026-02-18T09:22:31.761Z",
-    "updatedAt": "2026-02-18T22:19:04.222Z",
+    "updatedAt": "2026-02-18T22:20:45.869Z",
     "list": {
       "am": {
         "content": {
@@ -5449,6 +5449,13 @@
           "media": null
         },
         "addedAt": "2026-02-18T22:19:04.222Z"
+      },
+      "istilah app prem": {
+        "content": {
+          "text": " 𖹭sharing : akun berbagi dengan pembeli lain\n𖹭 private : dipake sendiri\n𖹭 buyer : pembeli\n𖹭 seller : penjual\n𖹭 nogar : no garansi, tida bisa komplain jika ada problem pada akun\n𖹭 fullgar : garansi full asal patuhi snk\n𖹭 u : user/pengguna, contoh \"sharing 3u\"\n𖹭 head : bisa invite orang lain\n𖹭 member : member dari sebuah tim, tida bisa akses fitur khusus\n𖹭 famplan : join tim, sama kaya member, dalam kasus spotify famplan akun nya dipake bareng bareng\n𖹭 indplan : sama kaya private, dipake sendiri\n𖹭 famhead : sama kaya head, bisa invit orang\n𖹭 bf : backfree, akun tiba tiba ga prem\n𖹭 wiped/disable : akun uda ga aktif = no garansi\n𖹭 ppj : perpanjang\n𖹭 limit screen : batasan jumlah layar / batasan jumlah pengguna pake di dalam waktu bersamaan\n𖹭 renew : ganti email per bulan / minggu",
+          "media": null
+        },
+        "addedAt": "2026-02-18T22:20:45.869Z"
       }
     }
   }
