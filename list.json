@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-02-19T22:28:07.107Z",
+    "updatedAt": "2026-02-19T22:30:28.412Z",
     "list": {
       "viu": {
         "content": {
@@ -688,6 +688,13 @@
           "media": null
         },
         "updatedAt": "2026-02-18T15:07:15.343Z"
+      },
+      "crunchyroll": {
+        "content": {
+          "text": " *CRUNCHYROLL*\n\n*SHARING :*\n- 1 bulan : 10.000\n- 1 tahun : 20.000\n\nNote :\n- harga sewaktu2 bisa berubah\n- tanyakan stok\n- proses max 1x24 jam",
+          "media": null
+        },
+        "addedAt": "2026-02-19T22:30:28.412Z"
       }
     }
   },
