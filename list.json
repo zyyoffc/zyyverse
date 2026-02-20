@@ -6194,7 +6194,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-02-20T21:25:16.441Z",
+    "updatedAt": "2026-02-20T21:25:56.826Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6216,6 +6216,13 @@
           "media": null
         },
         "addedAt": "2026-02-20T21:25:16.441Z"
+      },
+      "hbomax": {
+        "content": {
+          "text": "ULTIMATE\n1b 17.000\nSTANDART\n1b 13.000\nDESK\n✅ Akses film & series eksklusif HBO\n✅ Kualitas video HD / 4K*\n✅ Tonton di berbagai perangkat\n✅ Update film terbaru & box office",
+          "media": null
+        },
+        "addedAt": "2026-02-20T21:25:56.825Z"
       }
     }
   }
