@@ -5751,7 +5751,7 @@
   },
   "120363405862481957@g.us": {
     "createdAt": "2026-02-20T03:39:57.142Z",
-    "updatedAt": "2026-02-20T07:53:06.887Z",
+    "updatedAt": "2026-02-20T07:54:05.964Z",
     "list": {
       "pay": {
         "content": {
@@ -5916,6 +5916,13 @@
           "media": null
         },
         "addedAt": "2026-02-20T07:53:06.887Z"
+      },
+      "penjelasan netflix": {
+        "content": {
+          "text": "✿. penjelasan plan netflix\n\ndalam 1 akun netflix ada 5 profile yg berisi 5-10 device.\n\n— 1 profile 1 user \n1profile ada 1 orang yaitu kamu, dan 1 device kamu. jarang limit, tapi tetep bakalan limit karena limit nonton dari netflix 4 device. sedangkan, kalau 1u terdapat 5 device didalam 1 akun. jadi ada salah satu device yang kena limit nonton kalau ke 4 itu lagi nonton.\n\n— 1 profile 2 user \n1profile ada 2 orang (kamu dan buyer lain) cuma bisa login 1 device. ada 10 device dalam 1 akun, jadi udah pasti bakal sering limit buat nonton.\n\n— semiprivate\n1profile isinya 1 orang yaitu kamu dan 2 device kamu. walaupun boleh login 2 device tapi dilarang untuk menonton secara bersamaan. \n\n— private\nkamu dapat 1 akun yg berisi 5 profile yg bisa dipakai 5-10 device. engga akan limit kalau dipakai pribadi dan bisa kamu jual sharing. dapat akses khusus yg ga kamu dapet di akun sharing (akses hh, change pass profile & pin)",
+          "media": null
+        },
+        "addedAt": "2026-02-20T07:54:05.964Z"
       }
     }
   }
