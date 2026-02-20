@@ -3896,7 +3896,7 @@
   },
   "120363406036507175@g.us": {
     "createdAt": "2026-01-23T10:15:35.846Z",
-    "updatedAt": "2026-02-20T16:04:10.393Z",
+    "updatedAt": "2026-02-20T16:04:35.016Z",
     "list": {
       "blackbox ai": {
         "content": {
@@ -4201,6 +4201,13 @@
           "media": null
         },
         "addedAt": "2026-02-20T16:04:10.393Z"
+      },
+      "claude": {
+        "content": {
+          "text": "*WELCOME TO AKUNIN*👋🏻\n━━━━━━━━━━━━━━\n✨ PRICE LIST CLAUDE AI ✨\n\n✦ 1 Bulan : 40k\n✦ 3 Bulan : 80k\n\n📌 KETERANGAN PRODUK\n✦ 1 akun = 10 ruang kerja\n✦ 1 ruang kerja = 3 user\n✦ Dapat 1 ruang kerja per pembelian\n✦ Sharing aman 🔒 (project locked, private tetap)\n✦ Limit harian restart 15.00–18.00\n✦ Proses via email buyer (invite)\n✦ SS Login maks 24 jam setelah transaksi untuk aktifkan garansi, diluar itu tidak dicover\n━━━━━━━━━━━━━━\n✨Thank You For Trusting Us✨",
+          "media": null
+        },
+        "addedAt": "2026-02-20T16:04:35.015Z"
       }
     }
   },
