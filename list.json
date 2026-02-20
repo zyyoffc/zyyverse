@@ -6194,7 +6194,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-02-20T21:25:56.826Z",
+    "updatedAt": "2026-02-20T21:26:38.396Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6223,6 +6223,13 @@
           "media": null
         },
         "addedAt": "2026-02-20T21:25:56.825Z"
+      },
+      "spotify": {
+        "content": {
+          "text": "indplan\n1 bulan 12.000\n2 bulan 17.000\n3 bulan 20.000\n4 bulan 25.000\nDESK\nPRIVATE\nFULL GARR\n Lagu unlimited\n Tanpa iklan\n Bisa download & offline\n Kualitas audio jernih\n All device (HP / Laptop)",
+          "media": null
+        },
+        "addedAt": "2026-02-20T21:26:38.396Z"
       }
     }
   }
