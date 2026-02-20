@@ -5748,5 +5748,21 @@
         "addedAt": "2026-02-19T00:38:30.439Z"
       }
     }
+  },
+  "120363405862481957@g.us": {
+    "createdAt": "2026-02-20T03:39:57.142Z",
+    "updatedAt": "2026-02-20T03:39:57.142Z",
+    "list": {
+      "pay": {
+        "content": {
+          "text": "smua pembayaran ke qris dan pastikan nominal sesuai yaa, transfer lebih = no reffund",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1771558795204.jpg"
+          }
+        },
+        "addedAt": "2026-02-20T03:39:57.142Z"
+      }
+    }
   }
 }
