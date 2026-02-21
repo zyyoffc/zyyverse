@@ -6208,7 +6208,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-02-21T03:43:27.820Z",
+    "updatedAt": "2026-02-21T03:46:43.379Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6331,6 +6331,13 @@
           "media": null
         },
         "addedAt": "2026-02-21T03:43:27.820Z"
+      },
+      "am": {
+        "content": {
+          "text": "1y shar : 1.500\n1y priv : 2.000",
+          "media": null
+        },
+        "addedAt": "2026-02-21T03:46:43.379Z"
       }
     }
   }
