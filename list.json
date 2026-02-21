@@ -6208,7 +6208,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-02-21T03:46:43.379Z",
+    "updatedAt": "2026-02-21T03:47:11.085Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6338,6 +6338,13 @@
           "media": null
         },
         "addedAt": "2026-02-21T03:46:43.379Z"
+      },
+      "link gc": {
+        "content": {
+          "text": "https://chat.whatsapp.com/Gqh0WrnEnoZ5uTJlrC37dp?mode=gi_t",
+          "media": null
+        },
+        "addedAt": "2026-02-21T03:47:11.085Z"
       }
     }
   }
