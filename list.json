@@ -6208,7 +6208,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-02-21T06:25:05.653Z",
+    "updatedAt": "2026-02-21T06:25:34.178Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6366,13 +6366,6 @@
           "media": null
         },
         "addedAt": "2026-02-21T06:23:38.637Z"
-      },
-      "form netflix": {
-        "content": {
-          "text": "email:\ntype:\ntanggal pembelian:\npemakaian pribadi/Cust:\nnomer pribadi/Cust:\nmerek device:\nlokasi device:",
-          "media": null
-        },
-        "addedAt": "2026-02-21T06:25:05.653Z"
       }
     }
   }
