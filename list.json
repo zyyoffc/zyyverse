@@ -6208,7 +6208,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-02-21T03:47:11.085Z",
+    "updatedAt": "2026-02-21T03:48:29.680Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6345,6 +6345,13 @@
           "media": null
         },
         "addedAt": "2026-02-21T03:47:11.085Z"
+      },
+      "bstation": {
+        "content": {
+          "text": "sharing\n1 bulan 5.000\n1 tahun 15.000",
+          "media": null
+        },
+        "addedAt": "2026-02-21T03:48:29.680Z"
       }
     }
   }
