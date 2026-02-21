@@ -6208,7 +6208,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-02-21T03:42:50.675Z",
+    "updatedAt": "2026-02-21T03:43:27.820Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6324,6 +6324,13 @@
           "media": null
         },
         "addedAt": "2026-02-21T03:42:50.675Z"
+      },
+      "canva": {
+        "content": {
+          "text": "✦ 1 Bulan Member :1.000\n✦ 1 Bulan Designer :1.500\n✦3 bulan member:3.000\n✦3 bulan designer:3.500",
+          "media": null
+        },
+        "addedAt": "2026-02-21T03:43:27.820Z"
       }
     }
   }
