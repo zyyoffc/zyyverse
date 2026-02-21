@@ -6208,7 +6208,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-02-21T05:17:12.254Z",
+    "updatedAt": "2026-02-21T06:23:38.637Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6359,6 +6359,13 @@
           "media": null
         },
         "addedAt": "2026-02-21T05:17:12.254Z"
+      },
+      "form garansi": {
+        "content": {
+          "text": "*form garansi*\naplikasi:\nemail:\ntype:\npemakaian pribadi/cust:\nnomer cust/pribadi:\nmerek device:\nlokasi device:",
+          "media": null
+        },
+        "addedAt": "2026-02-21T06:23:38.637Z"
       }
     }
   }
