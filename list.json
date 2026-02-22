@@ -6222,7 +6222,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-02-21T06:26:55.423Z",
+    "updatedAt": "2026-02-22T03:00:37.490Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6387,6 +6387,13 @@
           "media": null
         },
         "addedAt": "2026-02-21T06:26:55.423Z"
+      },
+      "grok ai": {
+        "content": {
+          "text": "7 hari 3.000",
+          "media": null
+        },
+        "addedAt": "2026-02-22T03:00:37.490Z"
       }
     }
   }
