@@ -2470,7 +2470,7 @@
   },
   "120363420066780436@g.us": {
     "createdAt": "2026-01-22T16:00:55.141Z",
-    "updatedAt": "2026-02-24T17:27:51.534Z",
+    "updatedAt": "2026-02-24T17:37:58.009Z",
     "list": {
       "adobe express": {
         "content": {
@@ -2964,6 +2964,13 @@
           }
         },
         "addedAt": "2026-02-19T02:17:30.289Z"
+      },
+      "penjelasan gemini": {
+        "content": {
+          "text": "◦ Gemini app - Dapatkan akses lebih tinggi ke model 2.5 Pro kami yang paling mumpuni, Riset Mendalam pada 2.5 Pro dan buka kunci pembuatan video dengan akses terbatas ke Veo 3.1\n◦ Flow - Dapatkan akses lebih tinggi ke alat Pembuatan Film AI kami untuk membuat adegan dan cerita sinematik, termasuk akses terbatas ke Veo 3.1\n◦ Whisk - Akses lebih tinggi ke pembuatan gambar ke video dengan Veo 3\n◦ 1.000 kredit AI bulanan - Melintasi Aliran dan Kocokan\n◦ NotebookLM - Asisten penelitian dan penulisan dengan 5x lebih banyak Ikhtisar Audio, buku catatan, dan lainnya\n◦ Gemini in Gmail, Docs, Vids & more - Akses Gemini langsung di aplikasi Google\n◦ Google Home Premium Standard - 30 hari sejarah acara dan fitur Gemini\n◦ Gemini Code Assist dan Gemini CLI - Permintaan model harian yang lebih tinggi di seluruh model Flash dan Pro di ekstensi Gemini CLI dan Gemini Code Assist IDE\n◦ Jules - Batasan lebih tinggi saat menggunakan Jules, agen pengkodean asinkron kami untuk pengembang perangkat lunak\n◦ Storage - Total penyimpanan 2 TB untuk Foto, Drive & Gmail",
+          "media": null
+        },
+        "addedAt": "2026-02-24T17:37:58.009Z"
       }
     }
   },
