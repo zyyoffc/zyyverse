@@ -6441,7 +6441,7 @@
   },
   "120363420803482957@g.us": {
     "createdAt": "2026-02-27T06:18:33.141Z",
-    "updatedAt": "2026-02-27T09:08:31.283Z",
+    "updatedAt": "2026-02-27T09:09:27.624Z",
     "list": {
       "penjelasan canva": {
         "content": {
@@ -6585,6 +6585,13 @@
           "media": null
         },
         "addedAt": "2026-02-27T09:08:31.282Z"
+      },
+      "format garansi": {
+        "content": {
+          "text": " *🌻FORMAT GARANSI (OTHER)🌻*\n\nSilakan isi data garansi dengan lengkap sesuai format di bawah ini:\n\n*─ Aplikasi :*\n*─ Tanggal Order :*\n*─ Email :*\n*─ Password :*\n*─ Tipe Akun :*\n*─ Durasi Pembelian :*\n*─ Tanggal Terjadi Kendala :*\n*─ Detail Kendala :*\n\n📌 Wajib melampirkan screenshot (SS) kendala\n(Dikirim dalam 1 bubble chat, tidak terpisah)\n\n*CATATAN PENTING:*\n- Pengajuan dengan format tidak lengkap → garansi tidak diproses\n- Tidak mematuhi S&K → garansi otomatis gugur\n- Estimasi proses garansi: 0–3 hari\n- Mohon tidak spam sebelum estimasi waktu berakhir\n- Spam / tidak sabar → pengajuan aku skip",
+          "media": null
+        },
+        "addedAt": "2026-02-27T09:09:27.624Z"
       }
     }
   }
