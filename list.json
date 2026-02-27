@@ -6441,7 +6441,7 @@
   },
   "120363420803482957@g.us": {
     "createdAt": "2026-02-27T06:18:33.141Z",
-    "updatedAt": "2026-02-27T07:45:52.285Z",
+    "updatedAt": "2026-02-27T07:54:49.230Z",
     "list": {
       "penjelasan canva": {
         "content": {
@@ -6540,6 +6540,23 @@
           "media": null
         },
         "addedAt": "2026-02-27T07:45:52.285Z"
+      },
+      "payment": {
+        "content": {
+          "text": "`𝗣𝗔𝗬𝗠𝗘𝗡𝗧`\n─── ⋆⋅☆⋅⋆ ──\n⋮ ⌗ ┆ _Shopeepay : 081936452868_\n⋮ ⌗ ┆ _Gopay,DANA : 085334993150_\n⋮ ⌗ ┆ _Seabank : 901331949948_\n\na/n Annisa Salmaa\n\n*_QRIS : ketik \"qris\" di grup_*",
+          "media": null
+        },
+        "addedAt": "2026-02-27T07:54:47.370Z"
+      },
+      "qris": {
+        "content": {
+          "text": "  *PEMBAYARAN QRIS🌻*\n\n_KIRIM BUKTI TRANSAKSI KE GROUP DENGAN FORMAT APK YG DI ORDER, PROSES AKAN DI KIRIM ADMIN MELALUI CHAT PRIBADI_",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1772178887150.jpg"
+          }
+        },
+        "addedAt": "2026-02-27T07:54:49.230Z"
       }
     }
   }
