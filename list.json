@@ -728,7 +728,7 @@
   },
   "120363404921649211@g.us": {
     "createdAt": "2026-01-16T02:32:27.666Z",
-    "updatedAt": "2026-03-01T07:44:46.129Z",
+    "updatedAt": "2026-03-01T07:46:21.130Z",
     "list": {
       "appmus": {
         "content": {
@@ -1152,6 +1152,13 @@
           "media": null
         },
         "addedAt": "2026-02-26T04:04:52.784Z"
+      },
+      "chatgpt": {
+        "content": {
+          "text": "𓂃˖˳·˖ ִֶָ ⋆ *CHATGPT* ⋆ ִֶָ˖·˳˖𓂃 \n\n⤿ member 1b : 7k\n⤿ head 1b : 22k\n\nּ ֶָ֢. member via invite email\nּ ֶָ֢. garansi 25d\nּ ֶָ֢. head invite 4 member",
+          "media": null
+        },
+        "addedAt": "2026-03-01T07:46:21.130Z"
       }
     }
   },
