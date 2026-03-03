@@ -1335,7 +1335,7 @@
   },
   "120363422381262394@g.us": {
     "createdAt": "2026-01-16T10:59:39.902Z",
-    "updatedAt": "2026-03-03T00:40:11.120Z",
+    "updatedAt": "2026-03-03T08:24:06.920Z",
     "list": {
       "bimbingan cara kerja reseller": {
         "content": {
@@ -1868,6 +1868,13 @@
           }
         },
         "addedAt": "2026-03-03T00:40:11.120Z"
+      },
+      "rumus reffund": {
+        "content": {
+          "text": "`꒰ 𝗿𝘂𝗺𝘂𝘀 𝗿𝗲𝗳𝗳𝘂𝗻𝗱 ꒱`\n\n(harga x sisa hari ÷ total hari langganan) x 0.5 = total refund. \n\ncontoh :\n(5.000 x 55 hari ÷ 60 hari) x 0.5 = 2.291\n\n📌 Ketentuan Service Fee\n- 0.5 : sudah pernah claim 3x\n- 0.6 : sudah pernah claim 1-2x\n- 0.7 : belum pernah claim garansi\n- 0.8 : pemakaian kurang dari 1 minggu\n\n> `penjelasan`\n\n— *harga* = harga reseller yang kamu beli di aku, bukan harga cust yang beli di kamu.\n\n— *sisa hari* = sisa durasi yang kalian order (misalnya, kalian beli tanggal 10 dan bermasalah di tanggal 18. nah, 30 hari - 18 hari = 12 hari itu sisanya).\n\n— *total hari* = durasi yang kalian order, kalau sebulan dihitung 30 hari (meskipun di kalender ada 31 hari, tetap dihitung sebagai 30 hari).\n\n— *service fee* = dimana-mana ada yang namanya service fee, perusahaan besar pun ada. karna ada biaya admin, begadang, waktu proses, dll.",
+          "media": null
+        },
+        "addedAt": "2026-03-03T08:24:06.920Z"
       }
     }
   },
