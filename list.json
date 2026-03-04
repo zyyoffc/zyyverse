@@ -1335,7 +1335,7 @@
   },
   "120363422381262394@g.us": {
     "createdAt": "2026-01-16T10:59:39.902Z",
-    "updatedAt": "2026-03-04T03:52:56.119Z",
+    "updatedAt": "2026-03-04T03:54:26.628Z",
     "list": {
       "bimbingan cara kerja reseller": {
         "content": {
@@ -1892,6 +1892,16 @@
           }
         },
         "addedAt": "2026-03-04T03:52:10.820Z"
+      },
+      "murbug v1": {
+        "content": {
+          "text": "*( ⸙ ) OPEN MURBUG BEBAS SPAM V1*\n( ⎋ ) Akses *Sebulan* 5K\n( ⎋ ) Akses *Permanen* 10K\n( ⎋ ) Akses *Resseler* 15K\n( ⎋ ) Akses *Partner* 25K\n( ⎋ ) Akses *Owner* 45K\n\n( ⸙ ) SCRIPT YANG DIGUNAKAN \n- OTAX\n- NOVA\n- OVALIUM \n- CIKIDAW \n\n⎋ EFECT BUGS\n♧ Delay Bebas Spam\n♧ Fc Bebas Spam\n♧ Drain kuota\n♧ Dan Fitur Lainnya",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1772596464539.jpg"
+          }
+        },
+        "addedAt": "2026-03-04T03:54:26.628Z"
       }
     }
   },
