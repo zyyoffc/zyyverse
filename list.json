@@ -6807,7 +6807,7 @@
   },
   "120363404888726169@g.us": {
     "createdAt": "2026-03-05T15:28:22.275Z",
-    "updatedAt": "2026-03-05T15:52:33.324Z",
+    "updatedAt": "2026-03-05T15:55:22.355Z",
     "list": {
       "netflix": {
         "content": {
@@ -6839,6 +6839,13 @@
           "media": null
         },
         "addedAt": "2026-03-05T15:52:33.324Z"
+      },
+      "canva": {
+        "content": {
+          "text": "AETHERIA STORE APPS\nCANVA PRO\n────────────────\nPAKET BERLANGGANAN\nPro Member – 1 Bulan : 700P\nPro Member – 2 Bulan : 1,5k\nPro Member – 3 Bulan : 3K\nPro Member – 1 Tahun : 7K\nDesigner – 1 Tahun : 13K\nAdmin – 1 Bulan : 5K\nAdmin Edu : 55K\nHead – 1 Bulan : 6K\nLifetime : 5K\nBulk Minimal 5 Akun : 1kP / pcs\nHead Bisnis – 1 Tahun : 120K\n────────────────\nINFORMASI PRODUK\n- Fitur Pro lengkap untuk kebutuhan desain & komersial.\n- Admin dan Head dapat invite member sesuai kapasitas.\n- Garansi mengikuti masa aktif paket.",
+          "media": null
+        },
+        "addedAt": "2026-03-05T15:55:22.355Z"
       }
     }
   }
