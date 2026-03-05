@@ -6807,7 +6807,7 @@
   },
   "120363404888726169@g.us": {
     "createdAt": "2026-03-05T15:28:22.275Z",
-    "updatedAt": "2026-03-05T15:55:22.355Z",
+    "updatedAt": "2026-03-05T15:56:39.195Z",
     "list": {
       "netflix": {
         "content": {
@@ -6846,6 +6846,13 @@
           "media": null
         },
         "addedAt": "2026-03-05T15:55:22.355Z"
+      },
+      "am pro": {
+        "content": {
+          "text": " AETHERIA STORE APPS\nALIGHT MOTION PRO\n────────────────\nPAKET BERLANGGANAN\nPro – 1 Tahun : 2k\nEmail Sendiri – 1 Tahun : 7K\nBulk 100 Akun – 1 Tahun : 30K\n────────────────\nINFORMASI PRODUK\n- Garansi 2 Bulan.\n- Login menggunakan OTP (tanpa password).\n- Ketik “tutor am” untuk panduan login.\n- Bulk berisi 100 akun private plan 1 tahun.",
+          "media": null
+        },
+        "addedAt": "2026-03-05T15:56:39.195Z"
       }
     }
   }
