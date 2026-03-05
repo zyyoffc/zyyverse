@@ -6807,7 +6807,7 @@
   },
   "120363404888726169@g.us": {
     "createdAt": "2026-03-05T15:28:22.275Z",
-    "updatedAt": "2026-03-05T15:28:22.275Z",
+    "updatedAt": "2026-03-05T15:35:51.578Z",
     "list": {
       "netflix": {
         "content": {
@@ -6815,6 +6815,16 @@
           "media": null
         },
         "addedAt": "2026-03-05T15:28:22.275Z"
+      },
+      "pay": {
+        "content": {
+          "text": "payment\n╔════════════════════╗\n   AETHERIA STORE \n╚════════════════════╝\n\nMETODE PEMBAYARAN\n\nDana\n083834256959\na/n fazry ilham sulaeman\n\nShopeePay\n083834256959\na/n zyyverse\n\nGoPay\n083834256227\na/n zyy\n\n━━━━━━━━━━━━━━━━\n\npastikan nama dan nomor rekening sesuai\n\n━━━━━━━━━━━━━━━━\n© 𝐀𝐞𝐭𝐡𝐞𝐫𝐢𝐚 𝐒𝐭𝐨𝐫𝐞",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1772724948823.jpg"
+          }
+        },
+        "addedAt": "2026-03-05T15:35:51.578Z"
       }
     }
   }
