@@ -6311,7 +6311,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-03-05T02:47:10.183Z",
+    "updatedAt": "2026-03-05T02:47:32.469Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6494,6 +6494,16 @@
           "media": null
         },
         "addedAt": "2026-03-02T21:25:05.595Z"
+      },
+      "qris": {
+        "content": {
+          "text": "pembayaran",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1772678850831.jpg"
+          }
+        },
+        "addedAt": "2026-03-05T02:47:32.469Z"
       }
     }
   },
