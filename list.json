@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-03-07T14:57:22.714Z",
+    "updatedAt": "2026-03-07T15:06:15.401Z",
     "list": {
       "viu": {
         "content": {
@@ -733,6 +733,13 @@
           }
         },
         "addedAt": "2026-03-02T15:33:15.528Z"
+      },
+      "klaim garansi": {
+        "content": {
+          "text": " *SYARAT2 KLAIM GARANSI*\n\n1. Wajib isi format garansi\n2. Wajib send bukti beli dan terima akun\n3. Proses garansi 1 - 3 hari, tidak menerima rush\n4. Wajib join grup, out? Tidak bisa klaim garansi",
+          "media": null
+        },
+        "addedAt": "2026-03-07T15:06:15.401Z"
       }
     }
   },
