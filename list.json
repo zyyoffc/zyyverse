@@ -6325,7 +6325,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-03-08T12:34:17.429Z",
+    "updatedAt": "2026-03-08T16:59:21.651Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6413,10 +6413,10 @@
       },
       "iqiyi": {
         "content": {
-          "text": "*PREMIUM PLAN*\n 1 bulan sharing : 10.000\n 1 tahun sharing : 17.000\n 1 bulan private : 37.000\n\n *STANDART PLAN*\n 1 bulan sharing : 8.000\n 3 bulan sharing : 12.000\n 1 tahun sharing : 14.000\n 1 bulan private : 31.000",
+          "text": "*PREMIUM PLAN*\n 1 bulan sharing : 8.000\n *STANDART PLAN*\n 1 bulan sharing : 5.000",
           "media": null
         },
-        "addedAt": "2026-02-21T03:42:50.675Z"
+        "updatedAt": "2026-03-08T16:59:21.651Z"
       },
       "canva": {
         "content": {
