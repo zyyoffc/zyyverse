@@ -2075,7 +2075,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-03-08T03:05:39.825Z",
+    "updatedAt": "2026-03-08T03:05:54.413Z",
     "list": {
       "apple music": {
         "content": {
@@ -2516,6 +2516,13 @@
           "media": null
         },
         "addedAt": "2026-03-08T03:03:44.214Z"
+      },
+      "garansi": {
+        "content": {
+          "text": "Ruang Klaim Garansi, Report Akun & Laporan Akun Bermasalah:\nhttps://chat.whatsapp.com/Emyw63FvIRPC0pFY3XGmtx?mode=gi_t",
+          "media": null
+        },
+        "addedAt": "2026-03-08T03:05:54.413Z"
       }
     }
   },
