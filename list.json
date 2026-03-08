@@ -2075,7 +2075,7 @@
   },
   "120363404072525131@g.us": {
     "createdAt": "2026-01-19T09:23:39.371Z",
-    "updatedAt": "2026-03-03T03:51:46.928Z",
+    "updatedAt": "2026-03-08T03:03:44.214Z",
     "list": {
       "apple music": {
         "content": {
@@ -2516,6 +2516,13 @@
           }
         },
         "addedAt": "2026-03-03T03:51:46.928Z"
+      },
+      "kebsos": {
+        "content": {
+          "text": "KEBSOS\nTanyakan manual ke nomor admin yaa 08136764826",
+          "media": null
+        },
+        "addedAt": "2026-03-08T03:03:44.214Z"
       }
     }
   },
