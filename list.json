@@ -3034,7 +3034,7 @@
   },
   "120363422689119481@g.us": {
     "createdAt": "2026-01-23T02:25:02.013Z",
-    "updatedAt": "2026-03-09T05:49:21.366Z",
+    "updatedAt": "2026-03-09T05:51:11.652Z",
     "list": {
       "netflix": {
         "content": {
@@ -3182,6 +3182,16 @@
           "media": null
         },
         "addedAt": "2026-03-05T05:23:40.929Z"
+      },
+      "pay": {
+        "content": {
+          "text": "𓂃᜔ 𓇬᮫ princelist : pay\n\nDana:083850921597\nGopay:083850921597\nShopeepay:083850921597\nSeabank:901029078318\nAtas nama:Santia Sri Rahayu",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1773035470031.jpg"
+          }
+        },
+        "addedAt": "2026-03-09T05:51:11.652Z"
       }
     }
   },
