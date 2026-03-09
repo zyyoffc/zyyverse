@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-03-09T05:37:52.365Z",
+    "updatedAt": "2026-03-09T12:19:03.680Z",
     "list": {
       "viu": {
         "content": {
@@ -733,6 +733,16 @@
           "media": null
         },
         "addedAt": "2026-03-07T15:06:15.401Z"
+      },
+      "tutor login am gen": {
+        "content": {
+          "text": " *TUTOR LOGIN ALIGHT MOTION GENERATOR*\n- buka apk am,  lalu pilih opsi  sign in/masuk lewat email (bukan google loh ya)\n- setelah itu paste email lalu klik berikutnya\n- setelah ada tulisan \"email login terkirim\" buka akses email generator \n- https://generator.email/ masukin emailmu disini\n- lalu scrol kebawah sampai ketemu \"login ke alight creative\" lalu klik\n- setelah itu, cek premium akun am nya, kalau sudah prem akun bisa digunakan",
+          "media": {
+            "type": "video",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1773058739705.mp4"
+          }
+        },
+        "addedAt": "2026-03-09T12:19:03.680Z"
       }
     }
   },
