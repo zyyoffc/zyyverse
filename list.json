@@ -6349,7 +6349,7 @@
   },
   "120363394882154794@g.us": {
     "createdAt": "2026-02-20T21:21:43.922Z",
-    "updatedAt": "2026-03-08T16:59:21.651Z",
+    "updatedAt": "2026-03-13T10:16:21.588Z",
     "list": {
       "prime vidio": {
         "content": {
@@ -6465,10 +6465,10 @@
       },
       "bstation": {
         "content": {
-          "text": "sharing\n1 bulan 5.000\n1 tahun 15.000",
+          "text": "\nsharing\n1 bulan 3.000",
           "media": null
         },
-        "addedAt": "2026-02-21T03:48:29.680Z"
+        "updatedAt": "2026-03-13T10:16:21.587Z"
       },
       "stepgtc": {
         "content": {
