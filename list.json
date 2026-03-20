@@ -38,7 +38,7 @@
   },
   "120363403249626707@g.us": {
     "createdAt": "2026-01-15T11:36:07.795Z",
-    "updatedAt": "2026-03-20T12:58:30.749Z",
+    "updatedAt": "2026-03-20T12:59:08.755Z",
     "list": {
       "viu": {
         "content": {
@@ -754,6 +754,16 @@
           }
         },
         "addedAt": "2026-03-20T12:58:30.749Z"
+      },
+      "qris": {
+        "content": {
+          "text": " allpay no fee, kirim bukpem di grup",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1774011547072.jpg"
+          }
+        },
+        "addedAt": "2026-03-20T12:59:08.755Z"
       }
     }
   },
