@@ -6931,7 +6931,7 @@
   },
   "120363425561863729@g.us": {
     "createdAt": "2026-04-07T06:28:13.336Z",
-    "updatedAt": "2026-04-07T06:38:12.795Z",
+    "updatedAt": "2026-04-07T06:39:33.323Z",
     "list": {
       "vidio": {
         "content": {
@@ -6981,6 +6981,16 @@
           "media": null
         },
         "addedAt": "2026-04-07T06:38:12.795Z"
+      },
+      "pay": {
+        "content": {
+          "text": "𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗮𝗻𝗮𝘆🧾✨\n\nᥬᩤ 𝗱𝗮𝗻𝗮 ⵓ 089654670825\n  \n📜ᯓ𝗡𝗼𝘁𝗲 : \n\t⁠ᥬᩤ send bukti tf setelah pay \n\t⁠ᥬᩤ no crop bukti tf",
+          "media": {
+            "type": "image",
+            "file": "https://raw.githubusercontent.com/zyyoffc/botstore-db/main/media/1775543972428.jpg"
+          }
+        },
+        "addedAt": "2026-04-07T06:39:33.323Z"
       }
     }
   }
