@@ -6931,7 +6931,7 @@
   },
   "120363425561863729@g.us": {
     "createdAt": "2026-04-07T06:28:13.336Z",
-    "updatedAt": "2026-04-07T06:31:47.470Z",
+    "updatedAt": "2026-04-07T06:33:00.850Z",
     "list": {
       "vidio": {
         "content": {
@@ -6953,6 +6953,13 @@
           "media": null
         },
         "addedAt": "2026-04-07T06:31:47.470Z"
+      },
+      "youtube": {
+        "content": {
+          "text": "⏺️YT Premium\n➥ 1 bulan invite 5k",
+          "media": null
+        },
+        "addedAt": "2026-04-07T06:33:00.850Z"
       }
     }
   }
